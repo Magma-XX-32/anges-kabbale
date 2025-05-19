@@ -7,6 +7,7 @@ export default function AngeExplorer() {
   const [vertu, setVertu] = useState("");
   const [vertus, setVertus] = useState([]);
   const [expanded, setExpanded] = useState(null);
+  const [modalContent, setModalContent] = useState(null);
 
   useEffect(() => {
     fetch("/anges_01_72_complet_enrichi_versets_complets.json")
@@ -75,24 +76,31 @@ export default function AngeExplorer() {
               className="text-xl font-semibold text-indigo-700 cursor-pointer"
               onClick={() => toggleExpanded(index)}
             >
-              {ange.nom}
+              {ange.numéro} {ange.nom}
             </h2>
             <p className="italic text-sm text-gray-600">{ange.signification}</p>
             <ul className="mt-3 text-sm text-gray-700 space-y-1">
-              <li><strong>Numéro :</strong> {ange.numéro}</li>
               <li><strong>Hiérarchie :</strong> {ange.hiérarchie}</li>
               <li><strong>Sphère :</strong> {ange.sphère}</li>
               <li><strong>Élément :</strong> {ange.élément}</li>
               <li><strong>Dates :</strong> {ange.dates_influence}</li>
+              <li>
+                <strong>Verset :</strong>{" "}
+                <span
+                  onClick={() => setModalContent({ ref: ange.verset, texte: ange.texte_verset_complet })}
+                  className="text-blue-600 underline cursor-pointer"
+                  title={ange.texte_verset_complet}
+                >
+                  {ange.verset}
+                </span>
+              </li>
             </ul>
 
             {expanded === index && (
               <div className="transition-all duration-300 ease-in-out mt-2 text-sm text-gray-700 space-y-1">
                 <ul>
-                  <li><strong>Durée (jours) :</strong> {ange.duree_jours}</li>
                   <li><strong>Nom hébreu :</strong> <span className="block text-right font-hebrew text-2xl">{ange.nom_hebreu_consonnes}</span></li>
                   <li><strong>Hébreu vocalisé :</strong> <span className="block text-right font-hebrew text-lg">{ange.nom_hebreu_avec_voyelles}</span></li>
-                  <li><strong>Verset :</strong> {ange.verset}</li>
                   {ange.sceau && (
                     <li><strong>Sceau :</strong> <img src={ange.sceau} alt={`Sceau de ${ange.nom}`} className="w-16 mt-1" /></li>
                   )}
@@ -111,6 +119,20 @@ export default function AngeExplorer() {
           </div>
         ))}
       </div>
+
+      {/* Modale pour afficher le texte complet du verset */}
+      {modalContent && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
+          <div className="bg-white rounded-lg shadow-lg p-6 max-w-lg w-full relative">
+            <button
+              onClick={() => setModalContent(null)}
+              className="absolute top-2 right-2 text-gray-600 hover:text-gray-800"
+            >✖</button>
+            <h2 className="text-xl font-bold mb-4">{modalContent.ref}</h2>
+            <p className="text-gray-800 whitespace-pre-wrap">{modalContent.texte}</p>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
