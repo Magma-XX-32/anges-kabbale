@@ -1,0 +1,2091 @@
+[
+  {
+    "nom": "Vehuiah",
+    "numéro": 1,
+    "nom_hebreu": "והויה",
+    "signification": "Dieu élevé au-dessus de toutes choses",
+    "hiérarchie": "Séraphins",
+    "archange_regent": "Metatron",
+    "sphère": "Kether",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge",
+      "Magenta"
+    ],
+    "pierre": "Cornaline",
+    "planètes": [
+      "Neptune"
+    ],
+    "dates_influence": "21 mars – 25 mars",
+    "degrés_zodiaque": "0° à 5° Bélier",
+    "heure": "00h00 – 00h20",
+    "vertus": [
+      "Volonté",
+      "Transformation",
+      "Courage",
+      "Guérison",
+      "Succès"
+    ],
+    "psaume": "Psaume 3:4",
+    "tarot": "Deux de Bâtons"
+  },
+  {
+    "nom": "Jeliel",
+    "numéro": 2,
+    "nom_hebreu": "יהליה",
+    "signification": "Dieu secourable",
+    "hiérarchie": "Séraphins",
+    "archange_regent": "Metatron",
+    "sphère": "Kether",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge clair"
+    ],
+    "pierre": "Rubis",
+    "planètes": [
+      "Mars"
+    ],
+    "dates_influence": "26 mars – 30 mars",
+    "degrés_zodiaque": "5° à 10° Bélier",
+    "heure": "00h20 – 00h40",
+    "vertus": [
+      "Fidélité",
+      "Harmonie",
+      "Amour conjugal",
+      "Respect"
+    ],
+    "psaume": "Psaume 21:20",
+    "tarot": "Trois de Bâtons"
+  },
+  {
+    "nom": "Sitael",
+    "numéro": 3,
+    "nom_hebreu": "סיטאל",
+    "signification": "Dieu espérance de toutes créatures",
+    "hiérarchie": "Séraphins",
+    "archange_regent": "Metatron",
+    "sphère": "Kether",
+    "élément": "Feu",
+    "couleurs": [
+      "Or",
+      "Rouge"
+    ],
+    "pierre": "Grenat",
+    "planètes": [
+      "Jupiter"
+    ],
+    "dates_influence": "31 mars – 4 avril",
+    "degrés_zodiaque": "10° à 15° Bélier",
+    "heure": "00h40 – 01h00",
+    "vertus": [
+      "Protection",
+      "Structure",
+      "Responsabilité",
+      "Altruisme"
+    ],
+    "psaume": "Psaume 91:2",
+    "tarot": "Quatre de Bâtons"
+  },
+  {
+    "nom": "Elemiah",
+    "numéro": 4,
+    "nom_hebreu": "אלמיה",
+    "signification": "Dieu caché",
+    "hiérarchie": "Séraphins",
+    "archange_regent": "Metatron",
+    "sphère": "Kether",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge foncé",
+      "Orangé"
+    ],
+    "pierre": "Grenat",
+    "planètes": [
+      "Mars"
+    ],
+    "dates_influence": "5 avril – 9 avril",
+    "degrés_zodiaque": "15° à 20° Bélier",
+    "heure": "01h00 – 01h20",
+    "vertus": [
+      "Voyage",
+      "Protection contre les ennemis",
+      "Découverte de sa vocation",
+      "Succès"
+    ],
+    "psaume": "Psaume 6:5",
+    "tarot": "Cinq de Bâtons"
+  },
+  {
+    "nom": "Mahasiah",
+    "numéro": 5,
+    "nom_hebreu": "מהשיה",
+    "signification": "Dieu sauveur",
+    "hiérarchie": "Séraphins",
+    "archange_regent": "Metatron",
+    "sphère": "Kether",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge doré"
+    ],
+    "pierre": "Topaze",
+    "planètes": [
+      "Soleil"
+    ],
+    "dates_influence": "10 avril – 14 avril",
+    "degrés_zodiaque": "20° à 25° Bélier",
+    "heure": "01h20 – 01h40",
+    "vertus": [
+      "Sérénité",
+      "Connaissance",
+      "Réussite aux examens",
+      "Harmonie",
+      "Sagesse"
+    ],
+    "psaume": "Psaume 34:5",
+    "tarot": "Six de Bâtons"
+  },
+  {
+    "nom": "Lelahel",
+    "numéro": 6,
+    "nom_hebreu": "להלהאל",
+    "signification": "Dieu louable",
+    "hiérarchie": "Séraphins",
+    "archange_regent": "Metatron",
+    "sphère": "Kether",
+    "élément": "Feu",
+    "couleurs": [
+      "Or",
+      "Rouge clair"
+    ],
+    "pierre": "Citrine",
+    "planètes": [
+      "Soleil"
+    ],
+    "dates_influence": "15 avril – 20 avril",
+    "degrés_zodiaque": "25° à 30° Bélier",
+    "heure": "01h40 – 02h00",
+    "vertus": [
+      "Guérison",
+      "Art",
+      "Beauté",
+      "Succès social",
+      "Inspiration"
+    ],
+    "psaume": "Psaume 9:12",
+    "tarot": "Sept de Bâtons"
+  },
+  {
+    "nom": "Achaiah",
+    "numéro": 7,
+    "nom_hebreu": "עכאיה",
+    "signification": "Dieu bon et patient",
+    "hiérarchie": "Chérubins",
+    "archange_regent": "Raziel",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu clair",
+      "Argenté"
+    ],
+    "pierre": "Aigue-marine",
+    "planètes": [
+      "Uranus"
+    ],
+    "dates_influence": "21 avril – 25 avril",
+    "degrés_zodiaque": "0° à 5° Taureau",
+    "heure": "02h00 – 02h20",
+    "vertus": [
+      "Patience",
+      "Persévérance",
+      "Révélation des secrets",
+      "Intelligence pratique"
+    ],
+    "psaume": "Psaume 102:8",
+    "tarot": "Huit de Deniers"
+  },
+  {
+    "nom": "Cahetel",
+    "numéro": 8,
+    "nom_hebreu": "כחיתאל",
+    "signification": "Dieu adorable",
+    "hiérarchie": "Chérubins",
+    "archange_regent": "Raziel",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu ciel",
+      "Turquoise"
+    ],
+    "pierre": "Turquoise",
+    "planètes": [
+      "Uranus"
+    ],
+    "dates_influence": "26 avril – 30 avril",
+    "degrés_zodiaque": "5° à 10° Taureau",
+    "heure": "02h20 – 02h40",
+    "vertus": [
+      "Abondance",
+      "Fécondité",
+      "Gratitude",
+      "Purification",
+      "Travail spirituel"
+    ],
+    "psaume": "Psaume 94:19",
+    "tarot": "Neuf de Deniers"
+  },
+  {
+    "nom": "Haziel",
+    "numéro": 9,
+    "nom_hebreu": "האזיאל",
+    "signification": "Dieu de miséricorde",
+    "hiérarchie": "Chérubins",
+    "archange_regent": "Raziel",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu ciel",
+      "Blanc"
+    ],
+    "pierre": "Saphir blanc",
+    "planètes": [
+      "Uranus"
+    ],
+    "dates_influence": "1er mai – 5 mai",
+    "degrés_zodiaque": "10° à 15° Taureau",
+    "heure": "02h40 – 03h00",
+    "vertus": [
+      "Miséricorde",
+      "Pardon",
+      "Soutien",
+      "Amour inconditionnel",
+      "Réconciliation"
+    ],
+    "psaume": "Psaume 25:6",
+    "tarot": "Dix de Deniers"
+  },
+  {
+    "nom": "Aladiah",
+    "numéro": 10,
+    "nom_hebreu": "אלדיה",
+    "signification": "Dieu propice",
+    "hiérarchie": "Chérubins",
+    "archange_regent": "Raziel",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu ciel",
+      "Argent"
+    ],
+    "pierre": "Aigue-marine",
+    "planètes": [
+      "Uranus"
+    ],
+    "dates_influence": "6 mai – 10 mai",
+    "degrés_zodiaque": "15° à 20° Taureau",
+    "heure": "03h00 – 03h20",
+    "vertus": [
+      "Guérison",
+      "Régénération",
+      "Grâce divine",
+      "Pardon"
+    ],
+    "psaume": "Psaume 32:1",
+    "tarot": "As de Deniers"
+  },
+  {
+    "nom": "Lauviah",
+    "numéro": 11,
+    "nom_hebreu": "לוויה",
+    "signification": "Dieu loué et exalté",
+    "hiérarchie": "Chérubins",
+    "archange_regent": "Raziel",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu clair",
+      "Blanc"
+    ],
+    "pierre": "Saphir",
+    "planètes": [
+      "Uranus"
+    ],
+    "dates_influence": "11 mai – 15 mai",
+    "degrés_zodiaque": "20° à 25° Taureau",
+    "heure": "03h20 – 03h40",
+    "vertus": [
+      "Victoire",
+      "Réputation",
+      "Réussite",
+      "Sagesse"
+    ],
+    "psaume": "Psaume 8:1",
+    "tarot": "Deux de Deniers"
+  },
+  {
+    "nom": "Hahaiah",
+    "numéro": 12,
+    "nom_hebreu": "ההעיה",
+    "signification": "Dieu refuge",
+    "hiérarchie": "Chérubins",
+    "archange_regent": "Raziel",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu ciel",
+      "Gris perle"
+    ],
+    "pierre": "Lapis-lazuli",
+    "planètes": [
+      "Uranus"
+    ],
+    "dates_influence": "16 mai – 20 mai",
+    "degrés_zodiaque": "25° à 30° Taureau",
+    "heure": "03h40 – 04h00",
+    "vertus": [
+      "Protection",
+      "Révélation",
+      "Intuition",
+      "Spiritualité"
+    ],
+    "psaume": "Psaume 10:1",
+    "tarot": "Trois de Deniers"
+  },
+  {
+    "nom": "Yezalel",
+    "numéro": 13,
+    "nom_hebreu": "יזליאל",
+    "signification": "Dieu glorifié au-dessus de toutes choses",
+    "hiérarchie": "Chérubins",
+    "archange_regent": "Raziel",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu turquoise",
+      "Argent"
+    ],
+    "pierre": "Turquoise",
+    "planètes": [
+      "Uranus"
+    ],
+    "dates_influence": "21 mai – 25 mai",
+    "degrés_zodiaque": "0° à 5° Gémeaux",
+    "heure": "04h00 – 04h20",
+    "vertus": [
+      "Fidélité",
+      "Réconciliation",
+      "Amitié",
+      "Harmonie"
+    ],
+    "psaume": "Psaume 98:4",
+    "tarot": "Quatre de Deniers"
+  },
+  {
+    "nom": "Mebahel",
+    "numéro": 14,
+    "nom_hebreu": "מבאהאל",
+    "signification": "Dieu conservateur",
+    "hiérarchie": "Chérubins",
+    "archange_regent": "Raziel",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu marine",
+      "Blanc"
+    ],
+    "pierre": "Saphir",
+    "planètes": [
+      "Uranus"
+    ],
+    "dates_influence": "26 mai – 31 mai",
+    "degrés_zodiaque": "5° à 10° Gémeaux",
+    "heure": "04h20 – 04h40",
+    "vertus": [
+      "Vérité",
+      "Justice",
+      "Libération",
+      "Protection"
+    ],
+    "psaume": "Psaume 9:10",
+    "tarot": "Cinq de Deniers"
+  },
+  {
+    "nom": "Hariel",
+    "numéro": 15,
+    "nom_hebreu": "הראל",
+    "signification": "Dieu créateur",
+    "hiérarchie": "Chérubins",
+    "archange_regent": "Raziel",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu clair",
+      "Or"
+    ],
+    "pierre": "Topaze bleue",
+    "planètes": [
+      "Uranus"
+    ],
+    "dates_influence": "1 juin – 5 juin",
+    "degrés_zodiaque": "10° à 15° Gémeaux",
+    "heure": "04h40 – 05h00",
+    "vertus": [
+      "Pureté",
+      "Foi",
+      "Inspiration",
+      "Créativité"
+    ],
+    "psaume": "Psaume 94:22",
+    "tarot": "Six de Deniers"
+  },
+  {
+    "nom": "Hakamiah",
+    "numéro": 16,
+    "nom_hebreu": "חכמיה",
+    "signification": "Dieu qui construit l'univers",
+    "hiérarchie": "Chérubins",
+    "archange_regent": "Raziel",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu royal",
+      "Argent"
+    ],
+    "pierre": "Saphir",
+    "planètes": [
+      "Uranus"
+    ],
+    "dates_influence": "6 juin – 10 juin",
+    "degrés_zodiaque": "15° à 20° Gémeaux",
+    "heure": "05h00 – 05h20",
+    "vertus": [
+      "Loyauté",
+      "Noblesse",
+      "Protection",
+      "Courage"
+    ],
+    "psaume": "Psaume 88:2",
+    "tarot": "Sept de Deniers"
+  },
+  {
+    "nom": "Lauviah",
+    "numéro": 17,
+    "nom_hebreu": "לוויה",
+    "signification": "Dieu loué et exalté",
+    "hiérarchie": "Trônes",
+    "archange_regent": "Tsaphkiel",
+    "sphère": "Binah",
+    "élément": "Eau",
+    "couleurs": [
+      "Bleu nuit",
+      "Violet"
+    ],
+    "pierre": "Améthyste",
+    "planètes": [
+      "Saturne"
+    ],
+    "dates_influence": "11 juin – 15 juin",
+    "degrés_zodiaque": "20° à 25° Gémeaux",
+    "heure": "05h20 – 05h40",
+    "vertus": [
+      "Spiritualité",
+      "Intuition",
+      "Rêves prophétiques",
+      "Sérénité"
+    ],
+    "psaume": "Psaume 18:2",
+    "tarot": "Huit de Deniers"
+  },
+  {
+    "nom": "Caliel",
+    "numéro": 18,
+    "nom_hebreu": "כליאל",
+    "signification": "Dieu prompt à secourir",
+    "hiérarchie": "Trônes",
+    "archange_regent": "Tsaphkiel",
+    "sphère": "Binah",
+    "élément": "Eau",
+    "couleurs": [
+      "Bleu foncé",
+      "Argent"
+    ],
+    "pierre": "Saphir",
+    "planètes": [
+      "Saturne"
+    ],
+    "dates_influence": "16 juin – 21 juin",
+    "degrés_zodiaque": "25° à 30° Gémeaux",
+    "heure": "05h40 – 06h00",
+    "vertus": [
+      "Justice",
+      "Vérité",
+      "Protection contre l'injustice",
+      "Clarté d'esprit"
+    ],
+    "psaume": "Psaume 7:9",
+    "tarot": "Neuf de Deniers"
+  },
+  {
+    "nom": "Leuviah",
+    "numéro": 19,
+    "nom_hebreu": "לוויה",
+    "signification": "Dieu qui secourt les pécheurs",
+    "hiérarchie": "Trônes",
+    "archange_regent": "Tsaphkiel",
+    "sphère": "Binah",
+    "élément": "Eau",
+    "couleurs": [
+      "Bleu clair",
+      "Argent"
+    ],
+    "pierre": "Aigue-marine",
+    "planètes": [
+      "Saturne"
+    ],
+    "dates_influence": "22 juin – 26 juin",
+    "degrés_zodiaque": "0° à 5° Cancer",
+    "heure": "06h00 – 06h20",
+    "vertus": [
+      "Mémoire",
+      "Intelligence",
+      "Patience",
+      "Réconfort"
+    ],
+    "psaume": "Psaume 18:2",
+    "tarot": "Dix de Deniers"
+  },
+  {
+    "nom": "Pahaliah",
+    "numéro": 20,
+    "nom_hebreu": "פהליה",
+    "signification": "Dieu rédempteur",
+    "hiérarchie": "Trônes",
+    "archange_regent": "Tsaphkiel",
+    "sphère": "Binah",
+    "élément": "Eau",
+    "couleurs": [
+      "Bleu foncé",
+      "Or"
+    ],
+    "pierre": "Saphir",
+    "planètes": [
+      "Saturne"
+    ],
+    "dates_influence": "27 juin – 1 juillet",
+    "degrés_zodiaque": "5° à 10° Cancer",
+    "heure": "06h20 – 06h40",
+    "vertus": [
+      "Vocation",
+      "Spiritualité",
+      "Moralité",
+      "Courage"
+    ],
+    "psaume": "Psaume 119:2",
+    "tarot": "As de Coupes"
+  },
+  {
+    "nom": "Nelchael",
+    "numéro": 21,
+    "nom_hebreu": "נלחאל",
+    "signification": "Dieu seul et unique",
+    "hiérarchie": "Trônes",
+    "archange_regent": "Tsaphkiel",
+    "sphère": "Binah",
+    "élément": "Eau",
+    "couleurs": [
+      "Bleu marine",
+      "Argent"
+    ],
+    "pierre": "Lapis-lazuli",
+    "planètes": [
+      "Saturne"
+    ],
+    "dates_influence": "2 juillet – 6 juillet",
+    "degrés_zodiaque": "10° à 15° Cancer",
+    "heure": "06h40 – 07h00",
+    "vertus": [
+      "Connaissance",
+      "Études",
+      "Protection contre la calomnie",
+      "Libération"
+    ],
+    "psaume": "Psaume 31:15",
+    "tarot": "Deux de Coupes"
+  },
+  {
+    "nom": "Yeiayel",
+    "numéro": 22,
+    "nom_hebreu": "ייייאל",
+    "signification": "La droite de Dieu",
+    "hiérarchie": "Trônes",
+    "archange_regent": "Tsaphkiel",
+    "sphère": "Binah",
+    "élément": "Eau",
+    "couleurs": [
+      "Bleu clair",
+      "Or"
+    ],
+    "pierre": "Topaze bleue",
+    "planètes": [
+      "Saturne"
+    ],
+    "dates_influence": "7 juillet – 11 juillet",
+    "degrés_zodiaque": "15° à 20° Cancer",
+    "heure": "07h00 – 07h20",
+    "vertus": [
+      "Renommée",
+      "Succès",
+      "Protection lors des voyages",
+      "Leadership"
+    ],
+    "psaume": "Psaume 121:5",
+    "tarot": "Trois de Coupes"
+  },
+  {
+    "nom": "Melahel",
+    "numéro": 23,
+    "nom_hebreu": "מלהל",
+    "signification": "Dieu qui délivre des maux",
+    "hiérarchie": "Trônes",
+    "archange_regent": "Tsaphkiel",
+    "sphère": "Binah",
+    "élément": "Eau",
+    "couleurs": [
+      "Bleu turquoise",
+      "Argent"
+    ],
+    "pierre": "Turquoise",
+    "planètes": [
+      "Saturne"
+    ],
+    "dates_influence": "12 juillet – 16 juillet",
+    "degrés_zodiaque": "20° à 25° Cancer",
+    "heure": "07h20 – 07h40",
+    "vertus": [
+      "Guérison",
+      "Protection de la nature",
+      "Courage",
+      "Santé"
+    ],
+    "psaume": "Psaume 121:7",
+    "tarot": "Quatre de Coupes"
+  },
+  {
+    "nom": "Haheuiah",
+    "numéro": 24,
+    "nom_hebreu": "ההויה",
+    "signification": "Dieu bon par lui-même",
+    "hiérarchie": "Trônes",
+    "archange_regent": "Tsaphkiel",
+    "sphère": "Binah",
+    "élément": "Eau",
+    "couleurs": [
+      "Bleu nuit",
+      "Argent"
+    ],
+    "pierre": "Améthyste",
+    "planètes": [
+      "Saturne"
+    ],
+    "dates_influence": "17 juillet – 22 juillet",
+    "degrés_zodiaque": "25° à 30° Cancer",
+    "heure": "07h40 – 08h00",
+    "vertus": [
+      "Protection",
+      "Justice",
+      "Fidélité",
+      "Sécurité"
+    ],
+    "psaume": "Psaume 33:18",
+    "tarot": "Cinq de Coupes"
+  },
+  {
+    "nom": "Nith-Haiah",
+    "numéro": 25,
+    "nom_hebreu": "נתהיה",
+    "signification": "Dieu qui donne la sagesse",
+    "hiérarchie": "Dominations",
+    "archange_regent": "Tsadkiel",
+    "sphère": "Chesed",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge",
+      "Or"
+    ],
+    "pierre": "Rubis",
+    "planètes": [
+      "Jupiter"
+    ],
+    "dates_influence": "23 juillet – 27 juillet",
+    "degrés_zodiaque": "0° à 5° Lion",
+    "heure": "08h00 – 08h20",
+    "vertus": [
+      "Sagesse",
+      "Magie",
+      "Protection contre les forces du mal",
+      "Spiritualité"
+    ],
+    "psaume": "Psaume 9:2",
+    "tarot": "Six de Coupes"
+  },
+  {
+    "nom": "Haaiah",
+    "numéro": 26,
+    "nom_hebreu": "העיה",
+    "signification": "Dieu caché",
+    "hiérarchie": "Dominations",
+    "archange_regent": "Tsadkiel",
+    "sphère": "Chesed",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge foncé",
+      "Or"
+    ],
+    "pierre": "Grenat",
+    "planètes": [
+      "Jupiter"
+    ],
+    "dates_influence": "28 juillet – 1 août",
+    "degrés_zodiaque": "5° à 10° Lion",
+    "heure": "08h20 – 08h40",
+    "vertus": [
+      "Discernement",
+      "Stratégie",
+      "Justice",
+      "Leadership"
+    ],
+    "psaume": "Psaume 119:145",
+    "tarot": "Sept de Coupes"
+  },
+  {
+    "nom": "Yerathel",
+    "numéro": 27,
+    "nom_hebreu": "ירתאל",
+    "signification": "Dieu qui punit les méchants",
+    "hiérarchie": "Dominations",
+    "archange_regent": "Tsadkiel",
+    "sphère": "Chesed",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge clair",
+      "Or"
+    ],
+    "pierre": "Topaze",
+    "planètes": [
+      "Jupiter"
+    ],
+    "dates_influence": "2 août – 6 août",
+    "degrés_zodiaque": "10° à 15° Lion",
+    "heure": "08h40 – 09h00",
+    "vertus": [
+      "Confiance",
+      "Enthousiasme",
+      "Protection",
+      "Libération"
+    ],
+    "psaume": "Psaume 140:2",
+    "tarot": "Huit de Coupes"
+  },
+  {
+    "nom": "Seheiah",
+    "numéro": 28,
+    "nom_hebreu": "שהיה",
+    "signification": "Dieu qui guérit les malades",
+    "hiérarchie": "Dominations",
+    "archange_regent": "Tsadkiel",
+    "sphère": "Chesed",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge",
+      "Orangé"
+    ],
+    "pierre": "Cornaline",
+    "planètes": [
+      "Jupiter"
+    ],
+    "dates_influence": "7 août – 12 août",
+    "degrés_zodiaque": "15° à 20° Lion",
+    "heure": "09h00 – 09h20",
+    "vertus": [
+      "Longévité",
+      "Protection contre les accidents",
+      "Santé",
+      "Prudence"
+    ],
+    "psaume": "Psaume 71:12",
+    "tarot": "Neuf de Coupes"
+  },
+  {
+    "nom": "Reiyel",
+    "numéro": 29,
+    "nom_hebreu": "ראיהאל",
+    "signification": "Dieu prompt à secourir",
+    "hiérarchie": "Dominations",
+    "archange_regent": "Tsadkiel",
+    "sphère": "Chesed",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge carmin",
+      "Or"
+    ],
+    "pierre": "Rubis",
+    "planètes": [
+      "Jupiter"
+    ],
+    "dates_influence": "13 août – 17 août",
+    "degrés_zodiaque": "20° à 25° Lion",
+    "heure": "09h20 – 09h40",
+    "vertus": [
+      "Libération",
+      "Vérité",
+      "Éveil spirituel",
+      "Protection divine"
+    ],
+    "psaume": "Psaume 54:4",
+    "tarot": "Dix de Coupes"
+  },
+  {
+    "nom": "Omael",
+    "numéro": 30,
+    "nom_hebreu": "עומאל",
+    "signification": "Dieu patient",
+    "hiérarchie": "Dominations",
+    "archange_regent": "Tsadkiel",
+    "sphère": "Chesed",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge rubis",
+      "Jaune"
+    ],
+    "pierre": "Grenat",
+    "planètes": [
+      "Jupiter"
+    ],
+    "dates_influence": "18 août – 22 août",
+    "degrés_zodiaque": "25° à 30° Lion",
+    "heure": "09h40 – 10h00",
+    "vertus": [
+      "Multiplication",
+      "Fécondité",
+      "Expansion",
+      "Patience"
+    ],
+    "psaume": "Psaume 71:6",
+    "tarot": "As d'Épées"
+  },
+  {
+    "nom": "Lecabel",
+    "numéro": 31,
+    "nom_hebreu": "ליכאבל",
+    "signification": "Dieu qui inspire",
+    "hiérarchie": "Dominations",
+    "archange_regent": "Tsadkiel",
+    "sphère": "Chesed",
+    "élément": "Feu",
+    "couleurs": [
+      "Jaune or",
+      "Rouge pâle"
+    ],
+    "pierre": "Topaze",
+    "planètes": [
+      "Jupiter"
+    ],
+    "dates_influence": "23 août – 28 août",
+    "degrés_zodiaque": "0° à 5° Vierge",
+    "heure": "10h00 – 10h20",
+    "vertus": [
+      "Clarté mentale",
+      "Gestion",
+      "Calcul",
+      "Savoir pratique"
+    ],
+    "psaume": "Psaume 71:16",
+    "tarot": "Deux d'Épées"
+  },
+  {
+    "nom": "Vasariah",
+    "numéro": 32,
+    "nom_hebreu": "וסריה",
+    "signification": "Dieu juste",
+    "hiérarchie": "Dominations",
+    "archange_regent": "Tsadkiel",
+    "sphère": "Chesed",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge clair",
+      "Orange"
+    ],
+    "pierre": "Cornaline",
+    "planètes": [
+      "Jupiter"
+    ],
+    "dates_influence": "29 août – 2 septembre",
+    "degrés_zodiaque": "5° à 10° Vierge",
+    "heure": "10h20 – 10h40",
+    "vertus": [
+      "Justice",
+      "Miséricorde",
+      "Clémence",
+      "Éloquence"
+    ],
+    "psaume": "Psaume 33:22",
+    "tarot": "Trois d'Épées"
+  },
+  {
+    "nom": "Yehuiah",
+    "numéro": 33,
+    "nom_hebreu": "יהויה",
+    "signification": "Dieu qui connaît toutes choses",
+    "hiérarchie": "Puissances",
+    "archange_regent": "Camaël",
+    "sphère": "Gueburah",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge vif",
+      "Pourpre"
+    ],
+    "pierre": "Grenat",
+    "planètes": [
+      "Mars"
+    ],
+    "dates_influence": "3 septembre – 7 septembre",
+    "degrés_zodiaque": "10° à 15° Vierge",
+    "heure": "10h40 – 11h00",
+    "vertus": [
+      "Loyauté",
+      "Fidélité",
+      "Dévouement",
+      "Mission de service"
+    ],
+    "psaume": "Psaume 94:22",
+    "tarot": "Quatre d'Épées"
+  },
+  {
+    "nom": "Lehahiah",
+    "numéro": 34,
+    "nom_hebreu": "לההיה",
+    "signification": "Dieu clément",
+    "hiérarchie": "Puissances",
+    "archange_regent": "Camaël",
+    "sphère": "Gueburah",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge royal",
+      "Orange"
+    ],
+    "pierre": "Rubis",
+    "planètes": [
+      "Mars"
+    ],
+    "dates_influence": "8 septembre – 12 septembre",
+    "degrés_zodiaque": "15° à 20° Vierge",
+    "heure": "11h00 – 11h20",
+    "vertus": [
+      "Discipline",
+      "Obéissance",
+      "Énergie",
+      "Dignité"
+    ],
+    "psaume": "Psaume 131:3",
+    "tarot": "Cinq d'Épées"
+  },
+  {
+    "nom": "Chavakiah",
+    "numéro": 35,
+    "nom_hebreu": "כאווקיה",
+    "signification": "Dieu qui donne la joie",
+    "hiérarchie": "Puissances",
+    "archange_regent": "Camaël",
+    "sphère": "Gueburah",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge sombre",
+      "Or"
+    ],
+    "pierre": "Grenat",
+    "planètes": [
+      "Mars"
+    ],
+    "dates_influence": "13 septembre – 17 septembre",
+    "degrés_zodiaque": "20° à 25° Vierge",
+    "heure": "11h20 – 11h40",
+    "vertus": [
+      "Réconciliation",
+      "Héritage",
+      "Paix familiale",
+      "Joie"
+    ],
+    "psaume": "Psaume 116:1",
+    "tarot": "Six d'Épées"
+  },
+  {
+    "nom": "Menadel",
+    "numéro": 36,
+    "nom_hebreu": "מנדאל",
+    "signification": "Dieu adorable",
+    "hiérarchie": "Puissances",
+    "archange_regent": "Camaël",
+    "sphère": "Gueburah",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge brun",
+      "Orangé"
+    ],
+    "pierre": "Cornaline",
+    "planètes": [
+      "Mars"
+    ],
+    "dates_influence": "18 septembre – 23 septembre",
+    "degrés_zodiaque": "25° à 30° Vierge",
+    "heure": "11h40 – 12h00",
+    "vertus": [
+      "Travail",
+      "Liberté",
+      "Protection du métier",
+      "Stabilité"
+    ],
+    "psaume": "Psaume 26:8",
+    "tarot": "Sept d'Épées"
+  },
+  {
+    "nom": "Aniel",
+    "numéro": 37,
+    "nom_hebreu": "עניאל",
+    "signification": "Dieu des vertus",
+    "hiérarchie": "Puissances",
+    "archange_regent": "Camaël",
+    "sphère": "Gueburah",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge vif",
+      "Doré"
+    ],
+    "pierre": "Rubis",
+    "planètes": [
+      "Mars"
+    ],
+    "dates_influence": "24 septembre – 28 septembre",
+    "degrés_zodiaque": "0° à 5° Balance",
+    "heure": "12h00 – 12h20",
+    "vertus": [
+      "Inspiration",
+      "Transformation",
+      "Savoir ésotérique",
+      "Volonté divine"
+    ],
+    "psaume": "Psaume 94:18",
+    "tarot": "Huit d'Épées"
+  },
+  {
+    "nom": "Haamiah",
+    "numéro": 38,
+    "nom_hebreu": "חעמיה",
+    "signification": "Dieu espérance de tous les enfants de la terre",
+    "hiérarchie": "Puissances",
+    "archange_regent": "Camaël",
+    "sphère": "Gueburah",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge cerise",
+      "Or"
+    ],
+    "pierre": "Grenat",
+    "planètes": [
+      "Mars"
+    ],
+    "dates_influence": "29 septembre – 3 octobre",
+    "degrés_zodiaque": "5° à 10° Balance",
+    "heure": "12h20 – 12h40",
+    "vertus": [
+      "Vérité",
+      "Rituel sacré",
+      "Harmonie",
+      "Protection contre les maléfices"
+    ],
+    "psaume": "Psaume 91:9",
+    "tarot": "Neuf d'Épées"
+  },
+  {
+    "nom": "Rehael",
+    "numéro": 39,
+    "nom_hebreu": "רהאל",
+    "signification": "Dieu qui reçoit les pécheurs",
+    "hiérarchie": "Puissances",
+    "archange_regent": "Camaël",
+    "sphère": "Gueburah",
+    "élément": "Feu",
+    "couleurs": [
+      "Rouge brun",
+      "Argent"
+    ],
+    "pierre": "Hématite",
+    "planètes": [
+      "Mars"
+    ],
+    "dates_influence": "4 octobre – 8 octobre",
+    "degrés_zodiaque": "10° à 15° Balance",
+    "heure": "12h40 – 13h00",
+    "vertus": [
+      "Guérison",
+      "Pardon",
+      "Réconciliation familiale",
+      "Discipline"
+    ],
+    "psaume": "Psaume 30:11",
+    "tarot": "Dix d'Épées"
+  },
+  {
+    "nom": "Ieiazel",
+    "numéro": 40,
+    "nom_hebreu": "אייעזאל",
+    "signification": "Dieu qui réjouit",
+    "hiérarchie": "Vertus",
+    "archange_regent": "Raphaël",
+    "sphère": "Tiphereth",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu",
+      "Jaune doré"
+    ],
+    "pierre": "Citrine",
+    "planètes": [
+      "Soleil"
+    ],
+    "dates_influence": "9 octobre – 13 octobre",
+    "degrés_zodiaque": "15° à 20° Balance",
+    "heure": "13h00 – 13h20",
+    "vertus": [
+      "Libération",
+      "Inspiration artistique",
+      "Joie",
+      "Consolation"
+    ],
+    "psaume": "Psaume 88:2",
+    "tarot": "Page d'Épées"
+  },
+  {
+    "nom": "Hahahel",
+    "numéro": 41,
+    "nom_hebreu": "הההאל",
+    "signification": "Dieu en trois personnes",
+    "hiérarchie": "Vertus",
+    "archange_regent": "Raphaël",
+    "sphère": "Tiphereth",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu clair",
+      "Or"
+    ],
+    "pierre": "Saphir",
+    "planètes": [
+      "Soleil"
+    ],
+    "dates_influence": "14 octobre – 18 octobre",
+    "degrés_zodiaque": "20° à 25° Balance",
+    "heure": "13h20 – 13h40",
+    "vertus": [
+      "Foi",
+      "Dévotion",
+      "Leadership spirituel",
+      "Force morale"
+    ],
+    "psaume": "Psaume 120:1",
+    "tarot": "Chevalier d'Épées"
+  },
+  {
+    "nom": "Mikael",
+    "numéro": 42,
+    "nom_hebreu": "מיכאל",
+    "signification": "Ressemblance de Dieu",
+    "hiérarchie": "Vertus",
+    "archange_regent": "Raphaël",
+    "sphère": "Tiphereth",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu",
+      "Jaune"
+    ],
+    "pierre": "Topaze bleue",
+    "planètes": [
+      "Soleil"
+    ],
+    "dates_influence": "19 octobre – 23 octobre",
+    "degrés_zodiaque": "25° à 30° Balance",
+    "heure": "13h40 – 14h00",
+    "vertus": [
+      "Voyage",
+      "Protection",
+      "Organisation",
+      "Intelligence"
+    ],
+    "psaume": "Psaume 121:7",
+    "tarot": "Reine d'Épées"
+  },
+  {
+    "nom": "Veuahiah",
+    "numéro": 43,
+    "nom_hebreu": "והויה",
+    "signification": "Dieu exalté",
+    "hiérarchie": "Vertus",
+    "archange_regent": "Raphaël",
+    "sphère": "Tiphereth",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu ciel",
+      "Or"
+    ],
+    "pierre": "Citrine",
+    "planètes": [
+      "Soleil"
+    ],
+    "dates_influence": "24 octobre – 28 octobre",
+    "degrés_zodiaque": "0° à 5° Scorpion",
+    "heure": "14h00 – 14h20",
+    "vertus": [
+      "Guérison mentale",
+      "Transmutation",
+      "Puissance créatrice"
+    ],
+    "psaume": "Psaume 3:4",
+    "tarot": "Roi d'Épées"
+  },
+  {
+    "nom": "Sealiah",
+    "numéro": 44,
+    "nom_hebreu": "סאליה",
+    "signification": "Dieu moteur de toutes choses",
+    "hiérarchie": "Vertus",
+    "archange_regent": "Raphaël",
+    "sphère": "Tiphereth",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu turquoise",
+      "Argent"
+    ],
+    "pierre": "Aigue-marine",
+    "planètes": [
+      "Soleil"
+    ],
+    "dates_influence": "29 octobre – 2 novembre",
+    "degrés_zodiaque": "5° à 10° Scorpion",
+    "heure": "14h20 – 14h40",
+    "vertus": [
+      "Succès",
+      "Élévation",
+      "Vitalité",
+      "Confiance"
+    ],
+    "psaume": "Psaume 94:18",
+    "tarot": "As de Coupes"
+  },
+  {
+    "nom": "Ariel",
+    "numéro": 45,
+    "nom_hebreu": "אריאל",
+    "signification": "Dieu révélateur",
+    "hiérarchie": "Vertus",
+    "archange_regent": "Raphaël",
+    "sphère": "Tiphereth",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu roi",
+      "Or blanc"
+    ],
+    "pierre": "Lapis-lazuli",
+    "planètes": [
+      "Soleil"
+    ],
+    "dates_influence": "3 novembre – 7 novembre",
+    "degrés_zodiaque": "10° à 15° Scorpion",
+    "heure": "14h40 – 15h00",
+    "vertus": [
+      "Révélation",
+      "Protection contre l’erreur",
+      "Courage",
+      "Vision claire"
+    ],
+    "psaume": "Psaume 145:9",
+    "tarot": "Deux de Coupes"
+  },
+  {
+    "nom": "Asaliah",
+    "numéro": 46,
+    "nom_hebreu": "עשאליה",
+    "signification": "Dieu juste",
+    "hiérarchie": "Vertus",
+    "archange_regent": "Raphaël",
+    "sphère": "Tiphereth",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu ciel",
+      "Jaune doré"
+    ],
+    "pierre": "Topaze",
+    "planètes": [
+      "Soleil"
+    ],
+    "dates_influence": "8 novembre – 12 novembre",
+    "degrés_zodiaque": "15° à 20° Scorpion",
+    "heure": "15h00 – 15h20",
+    "vertus": [
+      "Contemplation",
+      "Justice",
+      "Vérité",
+      "Spiritualité profonde"
+    ],
+    "psaume": "Psaume 104:24",
+    "tarot": "Trois de Coupes"
+  },
+  {
+    "nom": "Mihael",
+    "numéro": 47,
+    "nom_hebreu": "מיהאל",
+    "signification": "Dieu père secourable",
+    "hiérarchie": "Vertus",
+    "archange_regent": "Raphaël",
+    "sphère": "Tiphereth",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu turquoise",
+      "Or clair"
+    ],
+    "pierre": "Aigue-marine",
+    "planètes": [
+      "Soleil"
+    ],
+    "dates_influence": "13 novembre – 17 novembre",
+    "degrés_zodiaque": "20° à 25° Scorpion",
+    "heure": "15h20 – 15h40",
+    "vertus": [
+      "Union conjugale",
+      "Fécondité",
+      "Voyance",
+      "Rêves prophétiques"
+    ],
+    "psaume": "Psaume 98:1",
+    "tarot": "Quatre de Coupes"
+  },
+  {
+    "nom": "Vehuel",
+    "numéro": 48,
+    "nom_hebreu": "והואל",
+    "signification": "Dieu grand et élevé",
+    "hiérarchie": "Principautés",
+    "archange_regent": "Haniel",
+    "sphère": "Netzach",
+    "élément": "Air",
+    "couleurs": [
+      "Vert émeraude",
+      "Or"
+    ],
+    "pierre": "Émeraude",
+    "planètes": [
+      "Vénus"
+    ],
+    "dates_influence": "18 novembre – 22 novembre",
+    "degrés_zodiaque": "25° à 30° Scorpion",
+    "heure": "15h40 – 16h00",
+    "vertus": [
+      "Élévation spirituelle",
+      "Générosité",
+      "Altruisme",
+      "Conscience divine"
+    ],
+    "psaume": "Psaume 145:3",
+    "tarot": "Cinq de Coupes"
+  },
+  {
+    "nom": "Daniel",
+    "numéro": 49,
+    "nom_hebreu": "דניאל",
+    "signification": "Signe de miséricorde",
+    "hiérarchie": "Principautés",
+    "archange_regent": "Haniel",
+    "sphère": "Netzach",
+    "élément": "Air",
+    "couleurs": [
+      "Vert",
+      "Or"
+    ],
+    "pierre": "Malachite",
+    "planètes": [
+      "Vénus"
+    ],
+    "dates_influence": "23 novembre – 27 novembre",
+    "degrés_zodiaque": "0° à 5° Sagittaire",
+    "heure": "16h00 – 16h20",
+    "vertus": [
+      "Éloquence",
+      "Vérité",
+      "Inspiration",
+      "Discernement"
+    ],
+    "psaume": "Psaume 103:20",
+    "tarot": "Six de Coupes"
+  },
+  {
+    "nom": "Hahasiah",
+    "numéro": 50,
+    "nom_hebreu": "ההשעיה",
+    "signification": "Dieu caché",
+    "hiérarchie": "Principautés",
+    "archange_regent": "Haniel",
+    "sphère": "Netzach",
+    "élément": "Air",
+    "couleurs": [
+      "Vert clair",
+      "Argent"
+    ],
+    "pierre": "Péridot",
+    "planètes": [
+      "Vénus"
+    ],
+    "dates_influence": "28 novembre – 2 décembre",
+    "degrés_zodiaque": "5° à 10° Sagittaire",
+    "heure": "16h20 – 16h40",
+    "vertus": [
+      "Médecine spirituelle",
+      "Alchimie",
+      "Recherche intérieure",
+      "Guérison"
+    ],
+    "psaume": "Psaume 104:1",
+    "tarot": "Sept de Coupes"
+  },
+  {
+    "nom": "Imamiah",
+    "numéro": 51,
+    "nom_hebreu": "איממיה",
+    "signification": "Dieu élevé au-dessus de toutes choses",
+    "hiérarchie": "Principautés",
+    "archange_regent": "Haniel",
+    "sphère": "Netzach",
+    "élément": "Air",
+    "couleurs": [
+      "Vert bouteille",
+      "Or pâle"
+    ],
+    "pierre": "Jade",
+    "planètes": [
+      "Vénus"
+    ],
+    "dates_influence": "3 décembre – 7 décembre",
+    "degrés_zodiaque": "10° à 15° Sagittaire",
+    "heure": "16h40 – 17h00",
+    "vertus": [
+      "Libération",
+      "Force morale",
+      "Courage",
+      "Victoire sur les adversaires"
+    ],
+    "psaume": "Psaume 88:14",
+    "tarot": "Huit de Coupes"
+  },
+  {
+    "nom": "Nanael",
+    "numéro": 52,
+    "nom_hebreu": "נאנאל",
+    "signification": "Dieu qui abaisse les orgueilleux",
+    "hiérarchie": "Principautés",
+    "archange_regent": "Haniel",
+    "sphère": "Netzach",
+    "élément": "Air",
+    "couleurs": [
+      "Vert menthe",
+      "Blanc"
+    ],
+    "pierre": "Opale verte",
+    "planètes": [
+      "Vénus"
+    ],
+    "dates_influence": "8 décembre – 12 décembre",
+    "degrés_zodiaque": "15° à 20° Sagittaire",
+    "heure": "17h00 – 17h20",
+    "vertus": [
+      "Connaissance spirituelle",
+      "Méditation",
+      "Études sacrées",
+      "Sérénité"
+    ],
+    "psaume": "Psaume 119:75",
+    "tarot": "Neuf de Coupes"
+  },
+  {
+    "nom": "Nithael",
+    "numéro": 53,
+    "nom_hebreu": "נתהאאל",
+    "signification": "Roi des cieux",
+    "hiérarchie": "Principautés",
+    "archange_regent": "Haniel",
+    "sphère": "Netzach",
+    "élément": "Air",
+    "couleurs": [
+      "Vert pomme",
+      "Or"
+    ],
+    "pierre": "Chrysoprase",
+    "planètes": [
+      "Vénus"
+    ],
+    "dates_influence": "13 décembre – 17 décembre",
+    "degrés_zodiaque": "20° à 25° Sagittaire",
+    "heure": "17h20 – 17h40",
+    "vertus": [
+      "Charisme",
+      "Régence",
+      "Harmonie",
+      "Transmission du savoir"
+    ],
+    "psaume": "Psaume 103:19",
+    "tarot": "Dix de Coupes"
+  },
+  {
+    "nom": "Mebahiah",
+    "numéro": 54,
+    "nom_hebreu": "מבאהיה",
+    "signification": "Dieu éternel",
+    "hiérarchie": "Principautés",
+    "archange_regent": "Haniel",
+    "sphère": "Netzach",
+    "élément": "Air",
+    "couleurs": [
+      "Vert pâle",
+      "Jaune doré"
+    ],
+    "pierre": "Péridot",
+    "planètes": [
+      "Vénus"
+    ],
+    "dates_influence": "18 décembre – 22 décembre",
+    "degrés_zodiaque": "25° à 30° Sagittaire",
+    "heure": "17h40 – 18h00",
+    "vertus": [
+      "Prière",
+      "Mission sacrée",
+      "Intelligence éthique",
+      "Élévation"
+    ],
+    "psaume": "Psaume 102:1",
+    "tarot": "As de Deniers"
+  },
+  {
+    "nom": "Poiel",
+    "numéro": 55,
+    "nom_hebreu": "פואל",
+    "signification": "Dieu qui soutient l'univers",
+    "hiérarchie": "Archanges",
+    "archange_regent": "Michel",
+    "sphère": "Hod",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu",
+      "Argent"
+    ],
+    "pierre": "Saphir",
+    "planètes": [
+      "Mercure"
+    ],
+    "dates_influence": "23 décembre – 27 décembre",
+    "degrés_zodiaque": "0° à 5° Capricorne",
+    "heure": "18h00 – 18h20",
+    "vertus": [
+      "Générosité",
+      "Pouvoir d'attraction",
+      "Modestie",
+      "Succès"
+    ],
+    "psaume": "Psaume 145:15",
+    "tarot": "Deux de Deniers"
+  },
+  {
+    "nom": "Nemmamiah",
+    "numéro": 56,
+    "nom_hebreu": "נממיה",
+    "signification": "Dieu louable",
+    "hiérarchie": "Archanges",
+    "archange_regent": "Michel",
+    "sphère": "Hod",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu foncé",
+      "Or"
+    ],
+    "pierre": "Lapis-lazuli",
+    "planètes": [
+      "Mercure"
+    ],
+    "dates_influence": "28 décembre – 1 janvier",
+    "degrés_zodiaque": "5° à 10° Capricorne",
+    "heure": "18h20 – 18h40",
+    "vertus": [
+      "Stratégie",
+      "Libération",
+      "Honneur",
+      "Succès dans le combat"
+    ],
+    "psaume": "Psaume 115:11",
+    "tarot": "Trois de Deniers"
+  },
+  {
+    "nom": "Yeialel",
+    "numéro": 57,
+    "nom_hebreu": "ייאל",
+    "signification": "Dieu qui exauce les générations",
+    "hiérarchie": "Archanges",
+    "archange_regent": "Michel",
+    "sphère": "Hod",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu marine",
+      "Gris"
+    ],
+    "pierre": "Saphir noir",
+    "planètes": [
+      "Mercure"
+    ],
+    "dates_influence": "2 janvier – 6 janvier",
+    "degrés_zodiaque": "10° à 15° Capricorne",
+    "heure": "18h40 – 19h00",
+    "vertus": [
+      "Endurance",
+      "Lucidité",
+      "Courage mental",
+      "Réparation"
+    ],
+    "psaume": "Psaume 6:4",
+    "tarot": "Quatre de Deniers"
+  },
+  {
+    "nom": "Harahel",
+    "numéro": 58,
+    "nom_hebreu": "הרהאל",
+    "signification": "Dieu qui connaît toutes choses",
+    "hiérarchie": "Archanges",
+    "archange_regent": "Michel",
+    "sphère": "Hod",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu clair",
+      "Argent"
+    ],
+    "pierre": "Aigue-marine",
+    "planètes": [
+      "Mercure"
+    ],
+    "dates_influence": "7 janvier – 11 janvier",
+    "degrés_zodiaque": "15° à 20° Capricorne",
+    "heure": "19h00 – 19h20",
+    "vertus": [
+      "Éveil intellectuel",
+      "Clarté",
+      "Vérité",
+      "Productivité"
+    ],
+    "psaume": "Psaume 112:1",
+    "tarot": "Cinq de Deniers"
+  },
+  {
+    "nom": "Mitzrael",
+    "numéro": 59,
+    "nom_hebreu": "מצראל",
+    "signification": "Dieu qui soulage les opprimés",
+    "hiérarchie": "Archanges",
+    "archange_regent": "Michel",
+    "sphère": "Hod",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu azur",
+      "Or pâle"
+    ],
+    "pierre": "Saphir bleu",
+    "planètes": [
+      "Mercure"
+    ],
+    "dates_influence": "12 janvier – 16 janvier",
+    "degrés_zodiaque": "20° à 25° Capricorne",
+    "heure": "19h20 – 19h40",
+    "vertus": [
+      "Guérison mentale",
+      "Mémoire",
+      "Ordre",
+      "Stabilité intérieure"
+    ],
+    "psaume": "Psaume 145:14",
+    "tarot": "Six de Deniers"
+  },
+  {
+    "nom": "Umabel",
+    "numéro": 60,
+    "nom_hebreu": "ומבאל",
+    "signification": "Dieu au-dessus de toutes choses",
+    "hiérarchie": "Archanges",
+    "archange_regent": "Michel",
+    "sphère": "Hod",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu",
+      "Rose pâle"
+    ],
+    "pierre": "Quartz rose",
+    "planètes": [
+      "Mercure"
+    ],
+    "dates_influence": "17 janvier – 21 janvier",
+    "degrés_zodiaque": "25° à 30° Capricorne",
+    "heure": "19h40 – 20h00",
+    "vertus": [
+      "Affinités sociales",
+      "Amour amical",
+      "Connaissance des lois naturelles"
+    ],
+    "psaume": "Psaume 113:2",
+    "tarot": "Sept de Deniers"
+  },
+  {
+    "nom": "Iah-hel",
+    "numéro": 61,
+    "nom_hebreu": "יאההאל",
+    "signification": "Être suprême",
+    "hiérarchie": "Archanges",
+    "archange_regent": "Michel",
+    "sphère": "Hod",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu nuit",
+      "Argent"
+    ],
+    "pierre": "Sodalite",
+    "planètes": [
+      "Mercure"
+    ],
+    "dates_influence": "22 janvier – 26 janvier",
+    "degrés_zodiaque": "0° à 5° Verseau",
+    "heure": "20h00 – 20h20",
+    "vertus": [
+      "Savoir sacré",
+      "Silence",
+      "Simplicité",
+      "Méditation"
+    ],
+    "psaume": "Psaume 94:22",
+    "tarot": "Huit de Deniers"
+  },
+  {
+    "nom": "Anauel",
+    "numéro": 62,
+    "nom_hebreu": "אנואל",
+    "signification": "Dieu infiniment bon",
+    "hiérarchie": "Archanges",
+    "archange_regent": "Michel",
+    "sphère": "Hod",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu turquoise",
+      "Argent"
+    ],
+    "pierre": "Turquoise",
+    "planètes": [
+      "Mercure"
+    ],
+    "dates_influence": "27 janvier – 31 janvier",
+    "degrés_zodiaque": "5° à 10° Verseau",
+    "heure": "20h20 – 20h40",
+    "vertus": [
+      "Commerce",
+      "Communication",
+      "Santé",
+      "Force mentale"
+    ],
+    "psaume": "Psaume 103:8",
+    "tarot": "Neuf de Deniers"
+  },
+  {
+    "nom": "Mehiel",
+    "numéro": 63,
+    "nom_hebreu": "מהיאל",
+    "signification": "Dieu vivificateur",
+    "hiérarchie": "Archanges",
+    "archange_regent": "Michel",
+    "sphère": "Hod",
+    "élément": "Air",
+    "couleurs": [
+      "Bleu ciel",
+      "Or"
+    ],
+    "pierre": "Citrine",
+    "planètes": [
+      "Mercure"
+    ],
+    "dates_influence": "1 février – 5 février",
+    "degrés_zodiaque": "10° à 15° Verseau",
+    "heure": "20h40 – 21h00",
+    "vertus": [
+      "Écriture",
+      "Inspiration",
+      "Protection contre les calomnies",
+      "Création"
+    ],
+    "psaume": "Psaume 33:18",
+    "tarot": "Dix de Deniers"
+  },
+  {
+    "nom": "Damabiah",
+    "numéro": 64,
+    "nom_hebreu": "דמביה",
+    "signification": "Dieu source de sagesse",
+    "hiérarchie": "Anges",
+    "archange_regent": "Gabriel",
+    "sphère": "Yesod",
+    "élément": "Eau",
+    "couleurs": [
+      "Argent",
+      "Bleu nuit"
+    ],
+    "pierre": "Saphir",
+    "planètes": [
+      "Lune"
+    ],
+    "dates_influence": "6 février – 10 février",
+    "degrés_zodiaque": "15° à 20° Verseau",
+    "heure": "21h00 – 21h20",
+    "vertus": [
+      "Soutien spirituel",
+      "Protection en mer",
+      "Altruisme",
+      "Sagesse divine"
+    ],
+    "psaume": "Psaume 90:1",
+    "tarot": "As d'Épées"
+  },
+  {
+    "nom": "Manakel",
+    "numéro": 65,
+    "nom_hebreu": "מנאל",
+    "signification": "Dieu qui seconde et maintient toutes choses",
+    "hiérarchie": "Anges",
+    "archange_regent": "Gabriel",
+    "sphère": "Yesod",
+    "élément": "Eau",
+    "couleurs": [
+      "Gris perle",
+      "Bleu clair"
+    ],
+    "pierre": "Calcédoine",
+    "planètes": [
+      "Lune"
+    ],
+    "dates_influence": "11 février – 15 février",
+    "degrés_zodiaque": "20° à 25° Verseau",
+    "heure": "21h20 – 21h40",
+    "vertus": [
+      "Guérison",
+      "Paix intérieure",
+      "Libération des peurs",
+      "Compassion"
+    ],
+    "psaume": "Psaume 38:22",
+    "tarot": "Deux d'Épées"
+  },
+  {
+    "nom": "Ayael",
+    "numéro": 66,
+    "nom_hebreu": "איאאל",
+    "signification": "Dieu de la joie",
+    "hiérarchie": "Anges",
+    "archange_regent": "Gabriel",
+    "sphère": "Yesod",
+    "élément": "Eau",
+    "couleurs": [
+      "Argent",
+      "Bleu profond"
+    ],
+    "pierre": "Pierre de Lune",
+    "planètes": [
+      "Lune"
+    ],
+    "dates_influence": "16 février – 20 février",
+    "degrés_zodiaque": "25° à 30° Verseau",
+    "heure": "21h40 – 22h00",
+    "vertus": [
+      "Inspiration intellectuelle",
+      "Écriture",
+      "Transmission",
+      "Joie"
+    ],
+    "psaume": "Psaume 36:5",
+    "tarot": "Trois d'Épées"
+  },
+  {
+    "nom": "Habuhiah",
+    "numéro": 67,
+    "nom_hebreu": "הבויה",
+    "signification": "Dieu qui donne avec libéralité",
+    "hiérarchie": "Anges",
+    "archange_regent": "Gabriel",
+    "sphère": "Yesod",
+    "élément": "Eau",
+    "couleurs": [
+      "Argenté",
+      "Bleu verdâtre"
+    ],
+    "pierre": "Aigue-marine",
+    "planètes": [
+      "Lune"
+    ],
+    "dates_influence": "21 février – 25 février",
+    "degrés_zodiaque": "0° à 5° Poissons",
+    "heure": "22h00 – 22h20",
+    "vertus": [
+      "Fertilité",
+      "Guérison naturelle",
+      "Lien avec la Terre",
+      "Prospérité"
+    ],
+    "psaume": "Psaume 105:1",
+    "tarot": "Quatre d'Épées"
+  },
+  {
+    "nom": "Rochel",
+    "numéro": 68,
+    "nom_hebreu": "רוחאל",
+    "signification": "Dieu qui voit tout",
+    "hiérarchie": "Anges",
+    "archange_regent": "Gabriel",
+    "sphère": "Yesod",
+    "élément": "Eau",
+    "couleurs": [
+      "Bleu argenté",
+      "Violet"
+    ],
+    "pierre": "Améthyste",
+    "planètes": [
+      "Lune"
+    ],
+    "dates_influence": "26 février – 2 mars",
+    "degrés_zodiaque": "5° à 10° Poissons",
+    "heure": "22h20 – 22h40",
+    "vertus": [
+      "Justice karmique",
+      "Récupération d'héritages",
+      "Mémoire",
+      "Rectitude"
+    ],
+    "psaume": "Psaume 16:5",
+    "tarot": "Cinq d'Épées"
+  },
+  {
+    "nom": "Jabamiah",
+    "numéro": 69,
+    "nom_hebreu": "יבמיה",
+    "signification": "Verbe qui produit toutes choses",
+    "hiérarchie": "Anges",
+    "archange_regent": "Gabriel",
+    "sphère": "Yesod",
+    "élément": "Eau",
+    "couleurs": [
+      "Gris argent",
+      "Bleu nuit"
+    ],
+    "pierre": "Sodalite",
+    "planètes": [
+      "Lune"
+    ],
+    "dates_influence": "3 mars – 7 mars",
+    "degrés_zodiaque": "10° à 15° Poissons",
+    "heure": "22h40 – 23h00",
+    "vertus": [
+      "Transmutation",
+      "Renaissance",
+      "Soutien dans la mort",
+      "Créativité divine"
+    ],
+    "psaume": "Psaume 103:19",
+    "tarot": "Six d'Épées"
+  },
+  {
+    "nom": "Haiaiel",
+    "numéro": 70,
+    "nom_hebreu": "היעיאל",
+    "signification": "Dieu maître de l'univers",
+    "hiérarchie": "Anges",
+    "archange_regent": "Gabriel",
+    "sphère": "Yesod",
+    "élément": "Eau",
+    "couleurs": [
+      "Bleu foncé",
+      "Argent"
+    ],
+    "pierre": "Saphir",
+    "planètes": [
+      "Lune"
+    ],
+    "dates_influence": "8 mars – 12 mars",
+    "degrés_zodiaque": "15° à 20° Poissons",
+    "heure": "23h00 – 23h20",
+    "vertus": [
+      "Victoire",
+      "Courage",
+      "Éveil spirituel",
+      "Protection des justes"
+    ],
+    "psaume": "Psaume 109:30",
+    "tarot": "Sept d'Épées"
+  },
+  {
+    "nom": "Mumiah",
+    "numéro": 71,
+    "nom_hebreu": "מומיה",
+    "signification": "Dieu fin de toutes choses",
+    "hiérarchie": "Anges",
+    "archange_regent": "Gabriel",
+    "sphère": "Yesod",
+    "élément": "Eau",
+    "couleurs": [
+      "Argent",
+      "Bleu marine"
+    ],
+    "pierre": "Hématite",
+    "planètes": [
+      "Lune"
+    ],
+    "dates_influence": "13 mars – 17 mars",
+    "degrés_zodiaque": "20° à 25° Poissons",
+    "heure": "23h20 – 23h40",
+    "vertus": [
+      "Mort initiatique",
+      "Transformation",
+      "Fin des cycles",
+      "Résurrection spirituelle"
+    ],
+    "psaume": "Psaume 116:15",
+    "tarot": "Huit d'Épées"
+  },
+  {
+    "nom": "Angel de clôture",
+    "numéro": 72,
+    "nom_hebreu": "שמשיאל",
+    "signification": "Dieu de lumière et de vérité",
+    "hiérarchie": "Anges",
+    "archange_regent": "Gabriel",
+    "sphère": "Yesod",
+    "élément": "Eau",
+    "couleurs": [
+      "Blanc argenté",
+      "Bleu"
+    ],
+    "pierre": "Cristal de roche",
+    "planètes": [
+      "Lune"
+    ],
+    "dates_influence": "18 mars – 20 mars",
+    "degrés_zodiaque": "25° à 30° Poissons",
+    "heure": "23h40 – 00h00",
+    "vertus": [
+      "Accomplissement",
+      "Libération",
+      "Éveil suprême",
+      "Paix intérieure"
+    ],
+    "psaume": "Psaume 146:8",
+    "tarot": "Neuf d'Épées"
+  }
+]
