@@ -11,7 +11,7 @@ export default function AngeExplorer() {
   const [vertus, setVertus] = useState([]);
 
   useEffect(() => {
-    fetch("/anges_01_72_complet_kabaleb_dates_fixes.json")
+    fetch("/anges_01_72_complet_kabaleb_dates_non_inclusives.json")
       .then((res) => res.json())
       .then((data) => {
         setAnges(data);
