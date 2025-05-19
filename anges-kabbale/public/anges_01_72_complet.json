@@ -1,1100 +1,1208 @@
 [
   {
-    "signification": "Signification de l'Ange 01",
-    "hiérarchie": "Séraphin",
-    "sphère": "Kether",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 1 à Jour 5",
     "numéro": 1,
-    "nom": "Ange 01",
-    "nom_hébreu": "ה01",
-    "verset": "Psaume 2, verset 2",
-    "sceau": "https://example.com/seals/seal_01.png"
+    "nom": "Vehuiah",
+    "nom_hébreu": "Vehuiah",
+    "hiérarchie": "Séraphins",
+    "sphère": "Kether",
+    "élément": "Feu",
+    "dates_influence": "21 mars – 25 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 1, verset 1",
+    "sceau": "/seals/seal_01.png",
+    "permutation_aboulafia": "haiuheV-א",
+    "itone_ifa": "Eji Ogbe"
   },
   {
-    "signification": "Signification de l'Ange 02",
-    "hiérarchie": "Séraphin",
-    "sphère": "Chokmah",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 2 à Jour 6",
     "numéro": 2,
-    "nom": "Ange 02",
-    "nom_hébreu": "ה02",
-    "verset": "Psaume 3, verset 3",
-    "sceau": "https://example.com/seals/seal_02.png"
+    "nom": "Jeliel",
+    "nom_hébreu": "Jeliel",
+    "hiérarchie": "Séraphins",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "dates_influence": "26 mars – 30 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 2, verset 2",
+    "sceau": "/seals/seal_02.png",
+    "permutation_aboulafia": "leileJ-א",
+    "itone_ifa": "Oyeku Meji"
   },
   {
-    "signification": "Signification de l'Ange 03",
-    "hiérarchie": "Séraphin",
-    "sphère": "Binah",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 3 à Jour 7",
     "numéro": 3,
-    "nom": "Ange 03",
-    "nom_hébreu": "ה03",
-    "verset": "Psaume 4, verset 4",
-    "sceau": "https://example.com/seals/seal_03.png"
+    "nom": "Sitael",
+    "nom_hébreu": "Sitael",
+    "hiérarchie": "Séraphins",
+    "sphère": "Binah",
+    "élément": "Eau",
+    "dates_influence": "31 mars – 35 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 3, verset 3",
+    "sceau": "/seals/seal_03.png",
+    "permutation_aboulafia": "leatiS-א",
+    "itone_ifa": "Iwori Meji"
   },
   {
-    "signification": "Signification de l'Ange 04",
-    "hiérarchie": "Séraphin",
-    "sphère": "Chesed",
-    "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 4 à Jour 8",
     "numéro": 4,
-    "nom": "Ange 04",
-    "nom_hébreu": "ה04",
-    "verset": "Psaume 5, verset 5",
-    "sceau": "https://example.com/seals/seal_04.png"
+    "nom": "Elemiah",
+    "nom_hébreu": "Elemiah",
+    "hiérarchie": "Séraphins",
+    "sphère": "Chesed",
+    "élément": "Terre",
+    "dates_influence": "36 mars – 40 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 4, verset 4",
+    "sceau": "/seals/seal_04.png",
+    "permutation_aboulafia": "haimelE-א",
+    "itone_ifa": "Idi Meji"
   },
   {
-    "signification": "Signification de l'Ange 05",
-    "hiérarchie": "Séraphin",
-    "sphère": "Gevurah",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 5 à Jour 9",
     "numéro": 5,
-    "nom": "Ange 05",
-    "nom_hébreu": "ה05",
-    "verset": "Psaume 6, verset 6",
-    "sceau": "https://example.com/seals/seal_05.png"
+    "nom": "Mahasiah",
+    "nom_hébreu": "Mahasiah",
+    "hiérarchie": "Séraphins",
+    "sphère": "Gevurah",
+    "élément": "Feu",
+    "dates_influence": "41 mars – 45 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 5, verset 5",
+    "sceau": "/seals/seal_05.png",
+    "permutation_aboulafia": "haisahaM-א",
+    "itone_ifa": "Irosun Meji"
   },
   {
-    "signification": "Signification de l'Ange 06",
-    "hiérarchie": "Séraphin",
-    "sphère": "Tiphereth",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 6 à Jour 10",
     "numéro": 6,
-    "nom": "Ange 06",
-    "nom_hébreu": "ה06",
-    "verset": "Psaume 7, verset 7",
-    "sceau": "https://example.com/seals/seal_06.png"
+    "nom": "Lelahel",
+    "nom_hébreu": "Lelahel",
+    "hiérarchie": "Séraphins",
+    "sphère": "Tiphereth",
+    "élément": "Air",
+    "dates_influence": "46 mars – 50 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 6, verset 6",
+    "sceau": "/seals/seal_06.png",
+    "permutation_aboulafia": "lehaleL-א",
+    "itone_ifa": "Owonrin Meji"
   },
   {
-    "signification": "Signification de l'Ange 07",
-    "hiérarchie": "Séraphin",
-    "sphère": "Netzach",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 7 à Jour 11",
     "numéro": 7,
-    "nom": "Ange 07",
-    "nom_hébreu": "ה07",
-    "verset": "Psaume 8, verset 8",
-    "sceau": "https://example.com/seals/seal_07.png"
+    "nom": "Achaiah",
+    "nom_hébreu": "Achaiah",
+    "hiérarchie": "Séraphins",
+    "sphère": "Netzach",
+    "élément": "Eau",
+    "dates_influence": "21 mars – 25 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 7, verset 7",
+    "sceau": "/seals/seal_07.png",
+    "permutation_aboulafia": "haiahcA-א",
+    "itone_ifa": "Obara Meji"
   },
   {
-    "signification": "Signification de l'Ange 08",
-    "hiérarchie": "Séraphin",
-    "sphère": "Hod",
-    "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 8 à Jour 12",
     "numéro": 8,
-    "nom": "Ange 08",
-    "nom_hébreu": "ה08",
-    "verset": "Psaume 9, verset 9",
-    "sceau": "https://example.com/seals/seal_08.png"
+    "nom": "Cahetel",
+    "nom_hébreu": "Cahetel",
+    "hiérarchie": "Séraphins",
+    "sphère": "Hod",
+    "élément": "Terre",
+    "dates_influence": "26 mars – 30 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 8, verset 8",
+    "sceau": "/seals/seal_08.png",
+    "permutation_aboulafia": "letehaC-א",
+    "itone_ifa": "Okanran Meji"
   },
   {
-    "signification": "Signification de l'Ange 09",
-    "hiérarchie": "Chérubin",
-    "sphère": "Yesod",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 9 à Jour 13",
     "numéro": 9,
-    "nom": "Ange 09",
-    "nom_hébreu": "ה09",
-    "verset": "Psaume 10, verset 10",
-    "sceau": "https://example.com/seals/seal_09.png"
+    "nom": "Haziel",
+    "nom_hébreu": "Haziel",
+    "hiérarchie": "Chérubins",
+    "sphère": "Yesod",
+    "élément": "Feu",
+    "dates_influence": "31 mars – 35 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 9, verset 9",
+    "sceau": "/seals/seal_09.png",
+    "permutation_aboulafia": "leizaH-א",
+    "itone_ifa": "Ogunda Meji"
   },
   {
-    "signification": "Signification de l'Ange 10",
-    "hiérarchie": "Chérubin",
-    "sphère": "Kether",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 10 à Jour 14",
     "numéro": 10,
-    "nom": "Ange 10",
-    "nom_hébreu": "ה10",
-    "verset": "Psaume 11, verset 11",
-    "sceau": "https://example.com/seals/seal_10.png"
+    "nom": "Aladiah",
+    "nom_hébreu": "Aladiah",
+    "hiérarchie": "Chérubins",
+    "sphère": "Kether",
+    "élément": "Air",
+    "dates_influence": "36 mars – 40 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 10, verset 10",
+    "sceau": "/seals/seal_10.png",
+    "permutation_aboulafia": "haidalA-א",
+    "itone_ifa": "Eji Ogbe"
   },
   {
-    "signification": "Signification de l'Ange 11",
-    "hiérarchie": "Chérubin",
-    "sphère": "Chokmah",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 11 à Jour 15",
     "numéro": 11,
-    "nom": "Ange 11",
-    "nom_hébreu": "ה11",
-    "verset": "Psaume 12, verset 12",
-    "sceau": "https://example.com/seals/seal_11.png"
+    "nom": "Lauviah",
+    "nom_hébreu": "Lauviah",
+    "hiérarchie": "Chérubins",
+    "sphère": "Chokmah",
+    "élément": "Eau",
+    "dates_influence": "41 mars – 45 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 11, verset 11",
+    "sceau": "/seals/seal_11.png",
+    "permutation_aboulafia": "haivuaL-א",
+    "itone_ifa": "Oyeku Meji"
   },
   {
-    "signification": "Signification de l'Ange 12",
-    "hiérarchie": "Chérubin",
-    "sphère": "Binah",
-    "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 12 à Jour 16",
     "numéro": 12,
-    "nom": "Ange 12",
-    "nom_hébreu": "ה12",
-    "verset": "Psaume 13, verset 13",
-    "sceau": "https://example.com/seals/seal_12.png"
+    "nom": "Hahaiah",
+    "nom_hébreu": "Hahaiah",
+    "hiérarchie": "Chérubins",
+    "sphère": "Binah",
+    "élément": "Terre",
+    "dates_influence": "46 mars – 50 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 12, verset 12",
+    "sceau": "/seals/seal_12.png",
+    "permutation_aboulafia": "haiahaH-א",
+    "itone_ifa": "Iwori Meji"
   },
   {
-    "signification": "Signification de l'Ange 13",
-    "hiérarchie": "Chérubin",
-    "sphère": "Chesed",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 13 à Jour 17",
     "numéro": 13,
-    "nom": "Ange 13",
-    "nom_hébreu": "ה13",
-    "verset": "Psaume 14, verset 14",
-    "sceau": "https://example.com/seals/seal_13.png"
+    "nom": "Iezalel",
+    "nom_hébreu": "Iezalel",
+    "hiérarchie": "Chérubins",
+    "sphère": "Chesed",
+    "élément": "Feu",
+    "dates_influence": "21 mars – 25 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 13, verset 13",
+    "sceau": "/seals/seal_13.png",
+    "permutation_aboulafia": "lelazeI-א",
+    "itone_ifa": "Idi Meji"
   },
   {
-    "signification": "Signification de l'Ange 14",
-    "hiérarchie": "Chérubin",
-    "sphère": "Gevurah",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 14 à Jour 18",
     "numéro": 14,
-    "nom": "Ange 14",
-    "nom_hébreu": "ה14",
-    "verset": "Psaume 15, verset 15",
-    "sceau": "https://example.com/seals/seal_14.png"
+    "nom": "Mebahel",
+    "nom_hébreu": "Mebahel",
+    "hiérarchie": "Chérubins",
+    "sphère": "Gevurah",
+    "élément": "Air",
+    "dates_influence": "26 mars – 30 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 14, verset 14",
+    "sceau": "/seals/seal_14.png",
+    "permutation_aboulafia": "lehabeM-א",
+    "itone_ifa": "Irosun Meji"
   },
   {
-    "signification": "Signification de l'Ange 15",
-    "hiérarchie": "Chérubin",
-    "sphère": "Tiphereth",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 15 à Jour 19",
     "numéro": 15,
-    "nom": "Ange 15",
-    "nom_hébreu": "ה15",
-    "verset": "Psaume 16, verset 16",
-    "sceau": "https://example.com/seals/seal_15.png"
+    "nom": "Hariel",
+    "nom_hébreu": "Hariel",
+    "hiérarchie": "Chérubins",
+    "sphère": "Tiphereth",
+    "élément": "Eau",
+    "dates_influence": "31 mars – 35 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 15, verset 15",
+    "sceau": "/seals/seal_15.png",
+    "permutation_aboulafia": "leiraH-א",
+    "itone_ifa": "Owonrin Meji"
   },
   {
-    "signification": "Signification de l'Ange 16",
-    "hiérarchie": "Chérubin",
-    "sphère": "Netzach",
-    "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 16 à Jour 20",
     "numéro": 16,
-    "nom": "Ange 16",
-    "nom_hébreu": "ה16",
-    "verset": "Psaume 17, verset 17",
-    "sceau": "https://example.com/seals/seal_16.png"
+    "nom": "Hakamiah",
+    "nom_hébreu": "Hakamiah",
+    "hiérarchie": "Chérubins",
+    "sphère": "Netzach",
+    "élément": "Terre",
+    "dates_influence": "36 mars – 40 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 16, verset 16",
+    "sceau": "/seals/seal_16.png",
+    "permutation_aboulafia": "haimakaH-א",
+    "itone_ifa": "Obara Meji"
   },
   {
-    "signification": "Signification de l'Ange 17",
-    "hiérarchie": "Trône",
-    "sphère": "Hod",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 17 à Jour 21",
     "numéro": 17,
-    "nom": "Ange 17",
-    "nom_hébreu": "ה17",
-    "verset": "Psaume 18, verset 18",
-    "sceau": "https://example.com/seals/seal_17.png"
+    "nom": "Lauviah II",
+    "nom_hébreu": "Lauviah II",
+    "hiérarchie": "Trônes",
+    "sphère": "Hod",
+    "élément": "Feu",
+    "dates_influence": "41 mars – 45 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 17, verset 17",
+    "sceau": "/seals/seal_17.png",
+    "permutation_aboulafia": "II haivuaL-א",
+    "itone_ifa": "Okanran Meji"
   },
   {
-    "signification": "Signification de l'Ange 18",
-    "hiérarchie": "Trône",
-    "sphère": "Yesod",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 18 à Jour 22",
     "numéro": 18,
-    "nom": "Ange 18",
-    "nom_hébreu": "ה18",
-    "verset": "Psaume 19, verset 19",
-    "sceau": "https://example.com/seals/seal_18.png"
+    "nom": "Caliel",
+    "nom_hébreu": "Caliel",
+    "hiérarchie": "Trônes",
+    "sphère": "Yesod",
+    "élément": "Air",
+    "dates_influence": "46 mars – 50 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 18, verset 18",
+    "sceau": "/seals/seal_18.png",
+    "permutation_aboulafia": "leilaC-א",
+    "itone_ifa": "Ogunda Meji"
   },
   {
-    "signification": "Signification de l'Ange 19",
-    "hiérarchie": "Trône",
-    "sphère": "Kether",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 19 à Jour 23",
     "numéro": 19,
-    "nom": "Ange 19",
-    "nom_hébreu": "ה19",
-    "verset": "Psaume 20, verset 20",
-    "sceau": "https://example.com/seals/seal_19.png"
+    "nom": "Leuviah",
+    "nom_hébreu": "Leuviah",
+    "hiérarchie": "Trônes",
+    "sphère": "Kether",
+    "élément": "Eau",
+    "dates_influence": "21 mars – 25 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 19, verset 19",
+    "sceau": "/seals/seal_19.png",
+    "permutation_aboulafia": "haivueL-א",
+    "itone_ifa": "Eji Ogbe"
   },
   {
-    "signification": "Signification de l'Ange 20",
-    "hiérarchie": "Trône",
-    "sphère": "Chokmah",
-    "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 20 à Jour 24",
     "numéro": 20,
-    "nom": "Ange 20",
-    "nom_hébreu": "ה20",
-    "verset": "Psaume 21, verset 1",
-    "sceau": "https://example.com/seals/seal_20.png"
+    "nom": "Pahaliah",
+    "nom_hébreu": "Pahaliah",
+    "hiérarchie": "Trônes",
+    "sphère": "Chokmah",
+    "élément": "Terre",
+    "dates_influence": "26 mars – 30 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 20, verset 20",
+    "sceau": "/seals/seal_20.png",
+    "permutation_aboulafia": "hailahaP-א",
+    "itone_ifa": "Oyeku Meji"
   },
   {
-    "signification": "Signification de l'Ange 21",
-    "hiérarchie": "Trône",
-    "sphère": "Binah",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 21 à Jour 25",
     "numéro": 21,
-    "nom": "Ange 21",
-    "nom_hébreu": "ה21",
-    "verset": "Psaume 22, verset 2",
-    "sceau": "https://example.com/seals/seal_21.png"
+    "nom": "Nelchael",
+    "nom_hébreu": "Nelchael",
+    "hiérarchie": "Trônes",
+    "sphère": "Binah",
+    "élément": "Feu",
+    "dates_influence": "31 mars – 35 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 21, verset 1",
+    "sceau": "/seals/seal_21.png",
+    "permutation_aboulafia": "leahcleN-א",
+    "itone_ifa": "Iwori Meji"
   },
   {
-    "signification": "Signification de l'Ange 22",
-    "hiérarchie": "Trône",
-    "sphère": "Chesed",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 22 à Jour 26",
     "numéro": 22,
-    "nom": "Ange 22",
-    "nom_hébreu": "ה22",
-    "verset": "Psaume 23, verset 3",
-    "sceau": "https://example.com/seals/seal_22.png"
+    "nom": "Yeiayel",
+    "nom_hébreu": "Yeiayel",
+    "hiérarchie": "Trônes",
+    "sphère": "Chesed",
+    "élément": "Air",
+    "dates_influence": "36 mars – 40 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 22, verset 2",
+    "sceau": "/seals/seal_22.png",
+    "permutation_aboulafia": "leyaieY-א",
+    "itone_ifa": "Idi Meji"
   },
   {
-    "signification": "Signification de l'Ange 23",
-    "hiérarchie": "Trône",
-    "sphère": "Gevurah",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 23 à Jour 27",
     "numéro": 23,
-    "nom": "Ange 23",
-    "nom_hébreu": "ה23",
-    "verset": "Psaume 24, verset 4",
-    "sceau": "https://example.com/seals/seal_23.png"
+    "nom": "Melahel",
+    "nom_hébreu": "Melahel",
+    "hiérarchie": "Trônes",
+    "sphère": "Gevurah",
+    "élément": "Eau",
+    "dates_influence": "41 mars – 45 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 23, verset 3",
+    "sceau": "/seals/seal_23.png",
+    "permutation_aboulafia": "lehaleM-א",
+    "itone_ifa": "Irosun Meji"
   },
   {
-    "signification": "Signification de l'Ange 24",
-    "hiérarchie": "Trône",
-    "sphère": "Tiphereth",
-    "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 24 à Jour 28",
     "numéro": 24,
-    "nom": "Ange 24",
-    "nom_hébreu": "ה24",
-    "verset": "Psaume 25, verset 5",
-    "sceau": "https://example.com/seals/seal_24.png"
+    "nom": "Haheuiah",
+    "nom_hébreu": "Haheuiah",
+    "hiérarchie": "Trônes",
+    "sphère": "Tiphereth",
+    "élément": "Terre",
+    "dates_influence": "46 mars – 50 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 24, verset 4",
+    "sceau": "/seals/seal_24.png",
+    "permutation_aboulafia": "haiuehaH-א",
+    "itone_ifa": "Owonrin Meji"
   },
   {
-    "signification": "Signification de l'Ange 25",
-    "hiérarchie": "Dominations",
-    "sphère": "Netzach",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 25 à Jour 29",
     "numéro": 25,
-    "nom": "Ange 25",
-    "nom_hébreu": "ה25",
-    "verset": "Psaume 26, verset 6",
-    "sceau": "https://example.com/seals/seal_25.png"
+    "nom": "Nith-Haiah",
+    "nom_hébreu": "Nith-Haiah",
+    "hiérarchie": "Dominations",
+    "sphère": "Netzach",
+    "élément": "Feu",
+    "dates_influence": "21 mars – 25 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 25, verset 5",
+    "sceau": "/seals/seal_25.png",
+    "permutation_aboulafia": "haiaH-htiN-א",
+    "itone_ifa": "Obara Meji"
   },
   {
-    "signification": "Signification de l'Ange 26",
-    "hiérarchie": "Dominations",
-    "sphère": "Hod",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 26 à Jour 30",
     "numéro": 26,
-    "nom": "Ange 26",
-    "nom_hébreu": "ה26",
-    "verset": "Psaume 27, verset 7",
-    "sceau": "https://example.com/seals/seal_26.png"
+    "nom": "Haaiah",
+    "nom_hébreu": "Haaiah",
+    "hiérarchie": "Dominations",
+    "sphère": "Hod",
+    "élément": "Air",
+    "dates_influence": "26 mars – 30 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 26, verset 6",
+    "sceau": "/seals/seal_26.png",
+    "permutation_aboulafia": "haiaaH-א",
+    "itone_ifa": "Okanran Meji"
   },
   {
-    "signification": "Signification de l'Ange 27",
-    "hiérarchie": "Dominations",
-    "sphère": "Yesod",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 27 à Jour 31",
     "numéro": 27,
-    "nom": "Ange 27",
-    "nom_hébreu": "ה27",
-    "verset": "Psaume 28, verset 8",
-    "sceau": "https://example.com/seals/seal_27.png"
+    "nom": "Ierathel",
+    "nom_hébreu": "Ierathel",
+    "hiérarchie": "Dominations",
+    "sphère": "Yesod",
+    "élément": "Eau",
+    "dates_influence": "31 mars – 35 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 27, verset 7",
+    "sceau": "/seals/seal_27.png",
+    "permutation_aboulafia": "lehtareI-א",
+    "itone_ifa": "Ogunda Meji"
   },
   {
-    "signification": "Signification de l'Ange 28",
-    "hiérarchie": "Dominations",
-    "sphère": "Kether",
-    "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 28 à Jour 32",
     "numéro": 28,
-    "nom": "Ange 28",
-    "nom_hébreu": "ה28",
-    "verset": "Psaume 29, verset 9",
-    "sceau": "https://example.com/seals/seal_28.png"
+    "nom": "Seheiah",
+    "nom_hébreu": "Seheiah",
+    "hiérarchie": "Dominations",
+    "sphère": "Kether",
+    "élément": "Terre",
+    "dates_influence": "36 mars – 40 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 28, verset 8",
+    "sceau": "/seals/seal_28.png",
+    "permutation_aboulafia": "haieheS-א",
+    "itone_ifa": "Eji Ogbe"
   },
   {
-    "signification": "Signification de l'Ange 29",
-    "hiérarchie": "Dominations",
-    "sphère": "Chokmah",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 29 à Jour 33",
     "numéro": 29,
-    "nom": "Ange 29",
-    "nom_hébreu": "ה29",
-    "verset": "Psaume 30, verset 10",
-    "sceau": "https://example.com/seals/seal_29.png"
+    "nom": "Reiyel",
+    "nom_hébreu": "Reiyel",
+    "hiérarchie": "Dominations",
+    "sphère": "Chokmah",
+    "élément": "Feu",
+    "dates_influence": "41 mars – 45 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 29, verset 9",
+    "sceau": "/seals/seal_29.png",
+    "permutation_aboulafia": "leyieR-א",
+    "itone_ifa": "Oyeku Meji"
   },
   {
-    "signification": "Signification de l'Ange 30",
-    "hiérarchie": "Dominations",
-    "sphère": "Binah",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 30 à Jour 34",
     "numéro": 30,
-    "nom": "Ange 30",
-    "nom_hébreu": "ה30",
-    "verset": "Psaume 31, verset 11",
-    "sceau": "https://example.com/seals/seal_30.png"
+    "nom": "Omael",
+    "nom_hébreu": "Omael",
+    "hiérarchie": "Dominations",
+    "sphère": "Binah",
+    "élément": "Air",
+    "dates_influence": "46 mars – 50 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 30, verset 10",
+    "sceau": "/seals/seal_30.png",
+    "permutation_aboulafia": "leamO-א",
+    "itone_ifa": "Iwori Meji"
   },
   {
-    "signification": "Signification de l'Ange 31",
-    "hiérarchie": "Dominations",
-    "sphère": "Chesed",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 31 à Jour 35",
     "numéro": 31,
-    "nom": "Ange 31",
-    "nom_hébreu": "ה31",
-    "verset": "Psaume 32, verset 12",
-    "sceau": "https://example.com/seals/seal_31.png"
+    "nom": "Lecabel",
+    "nom_hébreu": "Lecabel",
+    "hiérarchie": "Dominations",
+    "sphère": "Chesed",
+    "élément": "Eau",
+    "dates_influence": "21 mars – 25 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 31, verset 11",
+    "sceau": "/seals/seal_31.png",
+    "permutation_aboulafia": "lebaceL-א",
+    "itone_ifa": "Idi Meji"
   },
   {
-    "signification": "Signification de l'Ange 32",
+    "numéro": 32,
+    "nom": "Vasariah",
+    "nom_hébreu": "Vasariah",
     "hiérarchie": "Dominations",
     "sphère": "Gevurah",
     "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 32 à Jour 36",
-    "numéro": 32,
-    "nom": "Ange 32",
-    "nom_hébreu": "ה32",
-    "verset": "Psaume 33, verset 13",
-    "sceau": "https://example.com/seals/seal_32.png"
+    "dates_influence": "26 mars – 30 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 32, verset 12",
+    "sceau": "/seals/seal_32.png",
+    "permutation_aboulafia": "hairasaV-א",
+    "itone_ifa": "Irosun Meji"
   },
   {
-    "signification": "Signification de l'Ange 33",
-    "hiérarchie": "Vertus",
-    "sphère": "Tiphereth",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 33 à Jour 37",
     "numéro": 33,
-    "nom": "Ange 33",
-    "nom_hébreu": "ה33",
-    "verset": "Psaume 34, verset 14",
-    "sceau": "https://example.com/seals/seal_33.png"
+    "nom": "Yehuiah",
+    "nom_hébreu": "Yehuiah",
+    "hiérarchie": "Vertus",
+    "sphère": "Tiphereth",
+    "élément": "Feu",
+    "dates_influence": "31 mars – 35 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 33, verset 13",
+    "sceau": "/seals/seal_33.png",
+    "permutation_aboulafia": "haiuheY-א",
+    "itone_ifa": "Owonrin Meji"
   },
   {
-    "signification": "Signification de l'Ange 34",
-    "hiérarchie": "Vertus",
-    "sphère": "Netzach",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 34 à Jour 38",
     "numéro": 34,
-    "nom": "Ange 34",
-    "nom_hébreu": "ה34",
-    "verset": "Psaume 35, verset 15",
-    "sceau": "https://example.com/seals/seal_34.png"
+    "nom": "Lehahiah",
+    "nom_hébreu": "Lehahiah",
+    "hiérarchie": "Vertus",
+    "sphère": "Netzach",
+    "élément": "Air",
+    "dates_influence": "36 mars – 40 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 34, verset 14",
+    "sceau": "/seals/seal_34.png",
+    "permutation_aboulafia": "haihaheL-א",
+    "itone_ifa": "Obara Meji"
   },
   {
-    "signification": "Signification de l'Ange 35",
-    "hiérarchie": "Vertus",
-    "sphère": "Hod",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 35 à Jour 39",
     "numéro": 35,
-    "nom": "Ange 35",
-    "nom_hébreu": "ה35",
-    "verset": "Psaume 36, verset 16",
-    "sceau": "https://example.com/seals/seal_35.png"
+    "nom": "Chavakiah",
+    "nom_hébreu": "Chavakiah",
+    "hiérarchie": "Vertus",
+    "sphère": "Hod",
+    "élément": "Eau",
+    "dates_influence": "41 mars – 45 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 35, verset 15",
+    "sceau": "/seals/seal_35.png",
+    "permutation_aboulafia": "haikavahC-א",
+    "itone_ifa": "Okanran Meji"
   },
   {
-    "signification": "Signification de l'Ange 36",
-    "hiérarchie": "Vertus",
-    "sphère": "Yesod",
-    "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 36 à Jour 40",
     "numéro": 36,
-    "nom": "Ange 36",
-    "nom_hébreu": "ה36",
-    "verset": "Psaume 37, verset 17",
-    "sceau": "https://example.com/seals/seal_36.png"
+    "nom": "Menadel",
+    "nom_hébreu": "Menadel",
+    "hiérarchie": "Vertus",
+    "sphère": "Yesod",
+    "élément": "Terre",
+    "dates_influence": "46 mars – 50 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 36, verset 16",
+    "sceau": "/seals/seal_36.png",
+    "permutation_aboulafia": "ledaneM-א",
+    "itone_ifa": "Ogunda Meji"
   },
   {
-    "signification": "Signification de l'Ange 37",
-    "hiérarchie": "Vertus",
-    "sphère": "Kether",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 37 à Jour 41",
     "numéro": 37,
-    "nom": "Ange 37",
-    "nom_hébreu": "ה37",
-    "verset": "Psaume 38, verset 18",
-    "sceau": "https://example.com/seals/seal_37.png"
+    "nom": "Aniel",
+    "nom_hébreu": "Aniel",
+    "hiérarchie": "Vertus",
+    "sphère": "Kether",
+    "élément": "Feu",
+    "dates_influence": "21 mars – 25 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 37, verset 17",
+    "sceau": "/seals/seal_37.png",
+    "permutation_aboulafia": "leinA-א",
+    "itone_ifa": "Eji Ogbe"
   },
   {
-    "signification": "Signification de l'Ange 38",
-    "hiérarchie": "Vertus",
-    "sphère": "Chokmah",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 38 à Jour 42",
     "numéro": 38,
-    "nom": "Ange 38",
-    "nom_hébreu": "ה38",
-    "verset": "Psaume 39, verset 19",
-    "sceau": "https://example.com/seals/seal_38.png"
+    "nom": "Haamiah",
+    "nom_hébreu": "Haamiah",
+    "hiérarchie": "Vertus",
+    "sphère": "Chokmah",
+    "élément": "Air",
+    "dates_influence": "26 mars – 30 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 38, verset 18",
+    "sceau": "/seals/seal_38.png",
+    "permutation_aboulafia": "haimaaH-א",
+    "itone_ifa": "Oyeku Meji"
   },
   {
-    "signification": "Signification de l'Ange 39",
-    "hiérarchie": "Vertus",
-    "sphère": "Binah",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 39 à Jour 43",
     "numéro": 39,
-    "nom": "Ange 39",
-    "nom_hébreu": "ה39",
-    "verset": "Psaume 40, verset 20",
-    "sceau": "https://example.com/seals/seal_39.png"
+    "nom": "Rehael",
+    "nom_hébreu": "Rehael",
+    "hiérarchie": "Vertus",
+    "sphère": "Binah",
+    "élément": "Eau",
+    "dates_influence": "31 mars – 35 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 39, verset 19",
+    "sceau": "/seals/seal_39.png",
+    "permutation_aboulafia": "leaheR-א",
+    "itone_ifa": "Iwori Meji"
   },
   {
-    "signification": "Signification de l'Ange 40",
+    "numéro": 40,
+    "nom": "Ieiazel",
+    "nom_hébreu": "Ieiazel",
     "hiérarchie": "Vertus",
     "sphère": "Chesed",
     "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 40 à Jour 44",
-    "numéro": 40,
-    "nom": "Ange 40",
-    "nom_hébreu": "ה40",
-    "verset": "Psaume 41, verset 1",
-    "sceau": "https://example.com/seals/seal_40.png"
+    "dates_influence": "36 mars – 40 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 40, verset 20",
+    "sceau": "/seals/seal_40.png",
+    "permutation_aboulafia": "lezaieI-א",
+    "itone_ifa": "Idi Meji"
   },
   {
-    "signification": "Signification de l'Ange 41",
-    "hiérarchie": "Puissances",
-    "sphère": "Gevurah",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 41 à Jour 45",
     "numéro": 41,
-    "nom": "Ange 41",
-    "nom_hébreu": "ה41",
-    "verset": "Psaume 42, verset 2",
-    "sceau": "https://example.com/seals/seal_41.png"
+    "nom": "Hahahel",
+    "nom_hébreu": "Hahahel",
+    "hiérarchie": "Puissances",
+    "sphère": "Gevurah",
+    "élément": "Feu",
+    "dates_influence": "41 mars – 45 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 41, verset 1",
+    "sceau": "/seals/seal_41.png",
+    "permutation_aboulafia": "lehahaH-א",
+    "itone_ifa": "Irosun Meji"
   },
   {
-    "signification": "Signification de l'Ange 42",
-    "hiérarchie": "Puissances",
-    "sphère": "Tiphereth",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 42 à Jour 46",
     "numéro": 42,
-    "nom": "Ange 42",
-    "nom_hébreu": "ה42",
-    "verset": "Psaume 43, verset 3",
-    "sceau": "https://example.com/seals/seal_42.png"
+    "nom": "Mikael",
+    "nom_hébreu": "Mikael",
+    "hiérarchie": "Puissances",
+    "sphère": "Tiphereth",
+    "élément": "Air",
+    "dates_influence": "46 mars – 50 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 42, verset 2",
+    "sceau": "/seals/seal_42.png",
+    "permutation_aboulafia": "leakiM-א",
+    "itone_ifa": "Owonrin Meji"
   },
   {
-    "signification": "Signification de l'Ange 43",
-    "hiérarchie": "Puissances",
-    "sphère": "Netzach",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 43 à Jour 47",
     "numéro": 43,
-    "nom": "Ange 43",
-    "nom_hébreu": "ה43",
-    "verset": "Psaume 44, verset 4",
-    "sceau": "https://example.com/seals/seal_43.png"
+    "nom": "Veuliah",
+    "nom_hébreu": "Veuliah",
+    "hiérarchie": "Puissances",
+    "sphère": "Netzach",
+    "élément": "Eau",
+    "dates_influence": "21 mars – 25 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 43, verset 3",
+    "sceau": "/seals/seal_43.png",
+    "permutation_aboulafia": "hailueV-א",
+    "itone_ifa": "Obara Meji"
   },
   {
-    "signification": "Signification de l'Ange 44",
-    "hiérarchie": "Puissances",
-    "sphère": "Hod",
-    "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 44 à Jour 48",
     "numéro": 44,
-    "nom": "Ange 44",
-    "nom_hébreu": "ה44",
-    "verset": "Psaume 45, verset 5",
-    "sceau": "https://example.com/seals/seal_44.png"
+    "nom": "Yelaiah",
+    "nom_hébreu": "Yelaiah",
+    "hiérarchie": "Puissances",
+    "sphère": "Hod",
+    "élément": "Terre",
+    "dates_influence": "26 mars – 30 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 44, verset 4",
+    "sceau": "/seals/seal_44.png",
+    "permutation_aboulafia": "haialeY-א",
+    "itone_ifa": "Okanran Meji"
   },
   {
-    "signification": "Signification de l'Ange 45",
-    "hiérarchie": "Puissances",
-    "sphère": "Yesod",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 45 à Jour 49",
     "numéro": 45,
-    "nom": "Ange 45",
-    "nom_hébreu": "ה45",
-    "verset": "Psaume 46, verset 6",
-    "sceau": "https://example.com/seals/seal_45.png"
+    "nom": "Sealiah",
+    "nom_hébreu": "Sealiah",
+    "hiérarchie": "Puissances",
+    "sphère": "Yesod",
+    "élément": "Feu",
+    "dates_influence": "31 mars – 35 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 45, verset 5",
+    "sceau": "/seals/seal_45.png",
+    "permutation_aboulafia": "hailaeS-א",
+    "itone_ifa": "Ogunda Meji"
   },
   {
-    "signification": "Signification de l'Ange 46",
-    "hiérarchie": "Puissances",
-    "sphère": "Kether",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 46 à Jour 50",
     "numéro": 46,
-    "nom": "Ange 46",
-    "nom_hébreu": "ה46",
-    "verset": "Psaume 47, verset 7",
-    "sceau": "https://example.com/seals/seal_46.png"
+    "nom": "Ariel",
+    "nom_hébreu": "Ariel",
+    "hiérarchie": "Puissances",
+    "sphère": "Kether",
+    "élément": "Air",
+    "dates_influence": "36 mars – 40 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 46, verset 6",
+    "sceau": "/seals/seal_46.png",
+    "permutation_aboulafia": "leirA-א",
+    "itone_ifa": "Eji Ogbe"
   },
   {
-    "signification": "Signification de l'Ange 47",
-    "hiérarchie": "Puissances",
-    "sphère": "Chokmah",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 47 à Jour 51",
     "numéro": 47,
-    "nom": "Ange 47",
-    "nom_hébreu": "ה47",
-    "verset": "Psaume 48, verset 8",
-    "sceau": "https://example.com/seals/seal_47.png"
+    "nom": "Asaliah",
+    "nom_hébreu": "Asaliah",
+    "hiérarchie": "Puissances",
+    "sphère": "Chokmah",
+    "élément": "Eau",
+    "dates_influence": "41 mars – 45 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 47, verset 7",
+    "sceau": "/seals/seal_47.png",
+    "permutation_aboulafia": "hailasA-א",
+    "itone_ifa": "Oyeku Meji"
   },
   {
-    "signification": "Signification de l'Ange 48",
+    "numéro": 48,
+    "nom": "Mihael",
+    "nom_hébreu": "Mihael",
     "hiérarchie": "Puissances",
     "sphère": "Binah",
     "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 48 à Jour 52",
-    "numéro": 48,
-    "nom": "Ange 48",
-    "nom_hébreu": "ה48",
-    "verset": "Psaume 49, verset 9",
-    "sceau": "https://example.com/seals/seal_48.png"
+    "dates_influence": "46 mars – 50 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 48, verset 8",
+    "sceau": "/seals/seal_48.png",
+    "permutation_aboulafia": "leahiM-א",
+    "itone_ifa": "Iwori Meji"
   },
   {
-    "signification": "Signification de l'Ange 49",
-    "hiérarchie": "Principautés",
-    "sphère": "Chesed",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 49 à Jour 53",
     "numéro": 49,
-    "nom": "Ange 49",
-    "nom_hébreu": "ה49",
-    "verset": "Psaume 50, verset 10",
-    "sceau": "https://example.com/seals/seal_49.png"
+    "nom": "Vehuel",
+    "nom_hébreu": "Vehuel",
+    "hiérarchie": "Principautés",
+    "sphère": "Chesed",
+    "élément": "Feu",
+    "dates_influence": "21 mars – 25 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 49, verset 9",
+    "sceau": "/seals/seal_49.png",
+    "permutation_aboulafia": "leuheV-א",
+    "itone_ifa": "Idi Meji"
   },
   {
-    "signification": "Signification de l'Ange 50",
-    "hiérarchie": "Principautés",
-    "sphère": "Gevurah",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 50 à Jour 54",
     "numéro": 50,
-    "nom": "Ange 50",
-    "nom_hébreu": "ה50",
-    "verset": "Psaume 51, verset 11",
-    "sceau": "https://example.com/seals/seal_50.png"
+    "nom": "Daniel",
+    "nom_hébreu": "Daniel",
+    "hiérarchie": "Principautés",
+    "sphère": "Gevurah",
+    "élément": "Air",
+    "dates_influence": "26 mars – 30 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 50, verset 10",
+    "sceau": "/seals/seal_50.png",
+    "permutation_aboulafia": "leinaD-א",
+    "itone_ifa": "Irosun Meji"
   },
   {
-    "signification": "Signification de l'Ange 51",
-    "hiérarchie": "Principautés",
-    "sphère": "Tiphereth",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 51 à Jour 55",
     "numéro": 51,
-    "nom": "Ange 51",
-    "nom_hébreu": "ה51",
-    "verset": "Psaume 52, verset 12",
-    "sceau": "https://example.com/seals/seal_51.png"
+    "nom": "Hahasiah",
+    "nom_hébreu": "Hahasiah",
+    "hiérarchie": "Principautés",
+    "sphère": "Tiphereth",
+    "élément": "Eau",
+    "dates_influence": "31 mars – 35 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 51, verset 11",
+    "sceau": "/seals/seal_51.png",
+    "permutation_aboulafia": "haisahaH-א",
+    "itone_ifa": "Owonrin Meji"
   },
   {
-    "signification": "Signification de l'Ange 52",
-    "hiérarchie": "Principautés",
-    "sphère": "Netzach",
-    "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 52 à Jour 56",
     "numéro": 52,
-    "nom": "Ange 52",
-    "nom_hébreu": "ה52",
-    "verset": "Psaume 53, verset 13",
-    "sceau": "https://example.com/seals/seal_52.png"
+    "nom": "Imamiah",
+    "nom_hébreu": "Imamiah",
+    "hiérarchie": "Principautés",
+    "sphère": "Netzach",
+    "élément": "Terre",
+    "dates_influence": "36 mars – 40 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 52, verset 12",
+    "sceau": "/seals/seal_52.png",
+    "permutation_aboulafia": "haimamI-א",
+    "itone_ifa": "Obara Meji"
   },
   {
-    "signification": "Signification de l'Ange 53",
-    "hiérarchie": "Principautés",
-    "sphère": "Hod",
-    "élément": "Feu",
-    "vertus": [
-      "Inspiration",
-      "Guérison"
-    ],
-    "dates_influence": "Jour 53 à Jour 57",
     "numéro": 53,
-    "nom": "Ange 53",
-    "nom_hébreu": "ה53",
-    "verset": "Psaume 54, verset 14",
-    "sceau": "https://example.com/seals/seal_53.png"
+    "nom": "Nanael",
+    "nom_hébreu": "Nanael",
+    "hiérarchie": "Principautés",
+    "sphère": "Hod",
+    "élément": "Feu",
+    "dates_influence": "41 mars – 45 mars",
+    "vertus": [
+      "Inspiration",
+      "Guérison"
+    ],
+    "verset": "Psaume 53, verset 13",
+    "sceau": "/seals/seal_53.png",
+    "permutation_aboulafia": "leanaN-א",
+    "itone_ifa": "Okanran Meji"
   },
   {
-    "signification": "Signification de l'Ange 54",
-    "hiérarchie": "Principautés",
-    "sphère": "Yesod",
-    "élément": "Air",
-    "vertus": [
-      "Guérison",
-      "Protection"
-    ],
-    "dates_influence": "Jour 54 à Jour 58",
     "numéro": 54,
-    "nom": "Ange 54",
-    "nom_hébreu": "ה54",
-    "verset": "Psaume 55, verset 15",
-    "sceau": "https://example.com/seals/seal_54.png"
+    "nom": "Nithael",
+    "nom_hébreu": "Nithael",
+    "hiérarchie": "Principautés",
+    "sphère": "Yesod",
+    "élément": "Air",
+    "dates_influence": "46 mars – 50 mars",
+    "vertus": [
+      "Guérison",
+      "Protection"
+    ],
+    "verset": "Psaume 54, verset 14",
+    "sceau": "/seals/seal_54.png",
+    "permutation_aboulafia": "leahtiN-א",
+    "itone_ifa": "Ogunda Meji"
   },
   {
-    "signification": "Signification de l'Ange 55",
-    "hiérarchie": "Principautés",
-    "sphère": "Kether",
-    "élément": "Eau",
-    "vertus": [
-      "Protection",
-      "Justice"
-    ],
-    "dates_influence": "Jour 55 à Jour 59",
     "numéro": 55,
-    "nom": "Ange 55",
-    "nom_hébreu": "ה55",
-    "verset": "Psaume 56, verset 16",
-    "sceau": "https://example.com/seals/seal_55.png"
+    "nom": "Mebahiah",
+    "nom_hébreu": "Mebahiah",
+    "hiérarchie": "Principautés",
+    "sphère": "Kether",
+    "élément": "Eau",
+    "dates_influence": "21 mars – 25 mars",
+    "vertus": [
+      "Protection",
+      "Justice"
+    ],
+    "verset": "Psaume 55, verset 15",
+    "sceau": "/seals/seal_55.png",
+    "permutation_aboulafia": "haihabeM-א",
+    "itone_ifa": "Eji Ogbe"
   },
   {
-    "signification": "Signification de l'Ange 56",
+    "numéro": 56,
+    "nom": "Poyel",
+    "nom_hébreu": "Poyel",
     "hiérarchie": "Principautés",
     "sphère": "Chokmah",
     "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 56 à Jour 60",
-    "numéro": 56,
-    "nom": "Ange 56",
-    "nom_hébreu": "ה56",
-    "verset": "Psaume 57, verset 17",
-    "sceau": "https://example.com/seals/seal_56.png"
+    "dates_influence": "26 mars – 30 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 56, verset 16",
+    "sceau": "/seals/seal_56.png",
+    "permutation_aboulafia": "leyoP-א",
+    "itone_ifa": "Oyeku Meji"
   },
   {
-    "signification": "Signification de l'Ange 57",
+    "numéro": 57,
+    "nom": "Nemamiah",
+    "nom_hébreu": "Nemamiah",
     "hiérarchie": "Archanges",
     "sphère": "Binah",
     "élément": "Feu",
+    "dates_influence": "31 mars – 35 mars",
     "vertus": [
       "Inspiration",
       "Guérison"
     ],
-    "dates_influence": "Jour 57 à Jour 61",
-    "numéro": 57,
-    "nom": "Ange 57",
-    "nom_hébreu": "ה57",
-    "verset": "Psaume 58, verset 18",
-    "sceau": "https://example.com/seals/seal_57.png"
+    "verset": "Psaume 57, verset 17",
+    "sceau": "/seals/seal_57.png",
+    "permutation_aboulafia": "haimameN-א",
+    "itone_ifa": "Iwori Meji"
   },
   {
-    "signification": "Signification de l'Ange 58",
+    "numéro": 58,
+    "nom": "Yeialel",
+    "nom_hébreu": "Yeialel",
     "hiérarchie": "Archanges",
     "sphère": "Chesed",
     "élément": "Air",
+    "dates_influence": "36 mars – 40 mars",
     "vertus": [
       "Guérison",
       "Protection"
     ],
-    "dates_influence": "Jour 58 à Jour 62",
-    "numéro": 58,
-    "nom": "Ange 58",
-    "nom_hébreu": "ה58",
-    "verset": "Psaume 59, verset 19",
-    "sceau": "https://example.com/seals/seal_58.png"
+    "verset": "Psaume 58, verset 18",
+    "sceau": "/seals/seal_58.png",
+    "permutation_aboulafia": "lelaieY-א",
+    "itone_ifa": "Idi Meji"
   },
   {
-    "signification": "Signification de l'Ange 59",
+    "numéro": 59,
+    "nom": "Harahel",
+    "nom_hébreu": "Harahel",
     "hiérarchie": "Archanges",
     "sphère": "Gevurah",
     "élément": "Eau",
+    "dates_influence": "41 mars – 45 mars",
     "vertus": [
       "Protection",
       "Justice"
     ],
-    "dates_influence": "Jour 59 à Jour 63",
-    "numéro": 59,
-    "nom": "Ange 59",
-    "nom_hébreu": "ה59",
-    "verset": "Psaume 60, verset 20",
-    "sceau": "https://example.com/seals/seal_59.png"
+    "verset": "Psaume 59, verset 19",
+    "sceau": "/seals/seal_59.png",
+    "permutation_aboulafia": "leharaH-א",
+    "itone_ifa": "Irosun Meji"
   },
   {
-    "signification": "Signification de l'Ange 60",
+    "numéro": 60,
+    "nom": "Mitzrael",
+    "nom_hébreu": "Mitzrael",
     "hiérarchie": "Archanges",
     "sphère": "Tiphereth",
     "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 60 à Jour 64",
-    "numéro": 60,
-    "nom": "Ange 60",
-    "nom_hébreu": "ה60",
-    "verset": "Psaume 61, verset 1",
-    "sceau": "https://example.com/seals/seal_60.png"
+    "dates_influence": "46 mars – 50 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 60, verset 20",
+    "sceau": "/seals/seal_60.png",
+    "permutation_aboulafia": "learztiM-א",
+    "itone_ifa": "Owonrin Meji"
   },
   {
-    "signification": "Signification de l'Ange 61",
+    "numéro": 61,
+    "nom": "Umabel",
+    "nom_hébreu": "Umabel",
     "hiérarchie": "Archanges",
     "sphère": "Netzach",
     "élément": "Feu",
+    "dates_influence": "21 mars – 25 mars",
     "vertus": [
       "Inspiration",
       "Guérison"
     ],
-    "dates_influence": "Jour 61 à Jour 65",
-    "numéro": 61,
-    "nom": "Ange 61",
-    "nom_hébreu": "ה61",
-    "verset": "Psaume 62, verset 2",
-    "sceau": "https://example.com/seals/seal_61.png"
+    "verset": "Psaume 61, verset 1",
+    "sceau": "/seals/seal_61.png",
+    "permutation_aboulafia": "lebamU-א",
+    "itone_ifa": "Obara Meji"
   },
   {
-    "signification": "Signification de l'Ange 62",
+    "numéro": 62,
+    "nom": "Iah-Hel",
+    "nom_hébreu": "Iah-Hel",
     "hiérarchie": "Archanges",
     "sphère": "Hod",
     "élément": "Air",
+    "dates_influence": "26 mars – 30 mars",
     "vertus": [
       "Guérison",
       "Protection"
     ],
-    "dates_influence": "Jour 62 à Jour 66",
-    "numéro": 62,
-    "nom": "Ange 62",
-    "nom_hébreu": "ה62",
-    "verset": "Psaume 63, verset 3",
-    "sceau": "https://example.com/seals/seal_62.png"
+    "verset": "Psaume 62, verset 2",
+    "sceau": "/seals/seal_62.png",
+    "permutation_aboulafia": "leH-haI-א",
+    "itone_ifa": "Okanran Meji"
   },
   {
-    "signification": "Signification de l'Ange 63",
+    "numéro": 63,
+    "nom": "Anauel",
+    "nom_hébreu": "Anauel",
     "hiérarchie": "Archanges",
     "sphère": "Yesod",
     "élément": "Eau",
+    "dates_influence": "31 mars – 35 mars",
     "vertus": [
       "Protection",
       "Justice"
     ],
-    "dates_influence": "Jour 63 à Jour 67",
-    "numéro": 63,
-    "nom": "Ange 63",
-    "nom_hébreu": "ה63",
-    "verset": "Psaume 64, verset 4",
-    "sceau": "https://example.com/seals/seal_63.png"
+    "verset": "Psaume 63, verset 3",
+    "sceau": "/seals/seal_63.png",
+    "permutation_aboulafia": "leuanA-א",
+    "itone_ifa": "Ogunda Meji"
   },
   {
-    "signification": "Signification de l'Ange 64",
+    "numéro": 64,
+    "nom": "Mehiel",
+    "nom_hébreu": "Mehiel",
     "hiérarchie": "Archanges",
     "sphère": "Kether",
     "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 64 à Jour 68",
-    "numéro": 64,
-    "nom": "Ange 64",
-    "nom_hébreu": "ה64",
-    "verset": "Psaume 65, verset 5",
-    "sceau": "https://example.com/seals/seal_64.png"
+    "dates_influence": "36 mars – 40 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 64, verset 4",
+    "sceau": "/seals/seal_64.png",
+    "permutation_aboulafia": "leiheM-א",
+    "itone_ifa": "Eji Ogbe"
   },
   {
-    "signification": "Signification de l'Ange 65",
+    "numéro": 65,
+    "nom": "Damabiah",
+    "nom_hébreu": "Damabiah",
     "hiérarchie": "Anges",
     "sphère": "Chokmah",
     "élément": "Feu",
+    "dates_influence": "41 mars – 45 mars",
     "vertus": [
       "Inspiration",
       "Guérison"
     ],
-    "dates_influence": "Jour 65 à Jour 69",
-    "numéro": 65,
-    "nom": "Ange 65",
-    "nom_hébreu": "ה65",
-    "verset": "Psaume 66, verset 6",
-    "sceau": "https://example.com/seals/seal_65.png"
+    "verset": "Psaume 65, verset 5",
+    "sceau": "/seals/seal_65.png",
+    "permutation_aboulafia": "haibamaD-א",
+    "itone_ifa": "Oyeku Meji"
   },
   {
-    "signification": "Signification de l'Ange 66",
+    "numéro": 66,
+    "nom": "Manakel",
+    "nom_hébreu": "Manakel",
     "hiérarchie": "Anges",
     "sphère": "Binah",
     "élément": "Air",
+    "dates_influence": "46 mars – 50 mars",
     "vertus": [
       "Guérison",
       "Protection"
     ],
-    "dates_influence": "Jour 66 à Jour 70",
-    "numéro": 66,
-    "nom": "Ange 66",
-    "nom_hébreu": "ה66",
-    "verset": "Psaume 67, verset 7",
-    "sceau": "https://example.com/seals/seal_66.png"
+    "verset": "Psaume 66, verset 6",
+    "sceau": "/seals/seal_66.png",
+    "permutation_aboulafia": "lekanaM-א",
+    "itone_ifa": "Iwori Meji"
   },
   {
-    "signification": "Signification de l'Ange 67",
+    "numéro": 67,
+    "nom": "Ayael",
+    "nom_hébreu": "Ayael",
     "hiérarchie": "Anges",
     "sphère": "Chesed",
     "élément": "Eau",
+    "dates_influence": "21 mars – 25 mars",
     "vertus": [
       "Protection",
       "Justice"
     ],
-    "dates_influence": "Jour 67 à Jour 71",
-    "numéro": 67,
-    "nom": "Ange 67",
-    "nom_hébreu": "ה67",
-    "verset": "Psaume 68, verset 8",
-    "sceau": "https://example.com/seals/seal_67.png"
+    "verset": "Psaume 67, verset 7",
+    "sceau": "/seals/seal_67.png",
+    "permutation_aboulafia": "leayA-א",
+    "itone_ifa": "Idi Meji"
   },
   {
-    "signification": "Signification de l'Ange 68",
+    "numéro": 68,
+    "nom": "Habuhiah",
+    "nom_hébreu": "Habuhiah",
     "hiérarchie": "Anges",
     "sphère": "Gevurah",
     "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 68 à Jour 72",
-    "numéro": 68,
-    "nom": "Ange 68",
-    "nom_hébreu": "ה68",
-    "verset": "Psaume 69, verset 9",
-    "sceau": "https://example.com/seals/seal_68.png"
+    "dates_influence": "26 mars – 30 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 68, verset 8",
+    "sceau": "/seals/seal_68.png",
+    "permutation_aboulafia": "haihubaH-א",
+    "itone_ifa": "Irosun Meji"
   },
   {
-    "signification": "Signification de l'Ange 69",
+    "numéro": 69,
+    "nom": "Rochel",
+    "nom_hébreu": "Rochel",
     "hiérarchie": "Anges",
     "sphère": "Tiphereth",
     "élément": "Feu",
+    "dates_influence": "31 mars – 35 mars",
     "vertus": [
       "Inspiration",
       "Guérison"
     ],
-    "dates_influence": "Jour 69 à Jour 73",
-    "numéro": 69,
-    "nom": "Ange 69",
-    "nom_hébreu": "ה69",
-    "verset": "Psaume 70, verset 10",
-    "sceau": "https://example.com/seals/seal_69.png"
+    "verset": "Psaume 69, verset 9",
+    "sceau": "/seals/seal_69.png",
+    "permutation_aboulafia": "lehcoR-א",
+    "itone_ifa": "Owonrin Meji"
   },
   {
-    "signification": "Signification de l'Ange 70",
+    "numéro": 70,
+    "nom": "Jabamiah",
+    "nom_hébreu": "Jabamiah",
     "hiérarchie": "Anges",
     "sphère": "Netzach",
     "élément": "Air",
+    "dates_influence": "36 mars – 40 mars",
     "vertus": [
       "Guérison",
       "Protection"
     ],
-    "dates_influence": "Jour 70 à Jour 74",
-    "numéro": 70,
-    "nom": "Ange 70",
-    "nom_hébreu": "ה70",
-    "verset": "Psaume 71, verset 11",
-    "sceau": "https://example.com/seals/seal_70.png"
+    "verset": "Psaume 70, verset 10",
+    "sceau": "/seals/seal_70.png",
+    "permutation_aboulafia": "haimabaJ-א",
+    "itone_ifa": "Obara Meji"
   },
   {
-    "signification": "Signification de l'Ange 71",
+    "numéro": 71,
+    "nom": "Haiaiel",
+    "nom_hébreu": "Haiaiel",
     "hiérarchie": "Anges",
     "sphère": "Hod",
     "élément": "Eau",
+    "dates_influence": "41 mars – 45 mars",
     "vertus": [
       "Protection",
       "Justice"
     ],
-    "dates_influence": "Jour 71 à Jour 75",
-    "numéro": 71,
-    "nom": "Ange 71",
-    "nom_hébreu": "ה71",
-    "verset": "Psaume 72, verset 12",
-    "sceau": "https://example.com/seals/seal_71.png"
+    "verset": "Psaume 71, verset 11",
+    "sceau": "/seals/seal_71.png",
+    "permutation_aboulafia": "leiaiaH-א",
+    "itone_ifa": "Okanran Meji"
   },
   {
-    "signification": "Signification de l'Ange 72",
+    "numéro": 72,
+    "nom": "Mumiah",
+    "nom_hébreu": "Mumiah",
     "hiérarchie": "Anges",
     "sphère": "Yesod",
     "élément": "Terre",
-    "vertus": [],
-    "dates_influence": "Jour 72 à Jour 76",
-    "numéro": 72,
-    "nom": "Ange 72",
-    "nom_hébreu": "ה72",
-    "verset": "Psaume 73, verset 13",
-    "sceau": "https://example.com/seals/seal_72.png"
+    "dates_influence": "46 mars – 50 mars",
+    "vertus": [
+      "Justice"
+    ],
+    "verset": "Psaume 72, verset 12",
+    "sceau": "/seals/seal_72.png",
+    "permutation_aboulafia": "haimuM-א",
+    "itone_ifa": "Ogunda Meji"
   }
 ]
