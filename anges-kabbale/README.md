@@ -1,70 +1,88 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🌟 Explorateur des 72 Anges – App React + Tailwind
 
-## Available Scripts
+Une application interactive pour explorer les 72 Anges de la Kabbale selon la tradition de **Kabaleb**, enrichie de dimensions ésotériques (Aboulafia, Ifá, Sceaux, etc.)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ✨ Fonctionnalités
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🔍 **Recherche dynamique** par nom
+- 🎚️ **Filtres** par sphère et vertu
+- 📆 **Périodes d’influence précises** avec durée en jours
+- ✡️ **Nom hébreu** (forme consonantique & vocalisée)
+- 🔄 **Permutation Aboulafia**
+- 🧿 **Itone Ifá** associé à chaque ange
+- 🧬 **Verset biblique** & hiérarchie céleste
+- 🪬 **Affichage des sceaux**
+- 🎨 UI stylisée avec **TailwindCSS**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 📁 Données utilisées
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Fichier JSON :  
+`/public/anges_01_72_complet_kabaleb_dates_fixes.json`
 
-### `npm run build`
+Chaque entrée contient :
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```json
+{
+  "numéro": 1,
+  "nom": "Vehuiah",
+  "nom_hebreu_consonnes": "והוי",
+  "nom_hebreu_avec_voyelles": "וָהוּי",
+  "hiérarchie": "Séraphins",
+  "sphère": "Kether",
+  "élément": "Feu",
+  "dates_influence": "21 Mar – 23 Mar",
+  "duree_jours": 2.5,
+  "vertus": ["Inspiration", "Guérison"],
+  "verset": "Psaume 1, verset 1",
+  "sceau": "/seals/seal_01.png",
+  "permutation_aboulafia": "haiuhev-א",
+  "itone_ifa": "Eji Ogbe"
+}
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🔤 Typographie hébraïque
 
-### `npm run eject`
+Ajoutez cette ligne dans `public/index.html` :
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```html
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew&display=swap" rel="stylesheet">
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Puis dans `App.css` :
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```css
+.font-hebrew {
+  font-family: 'Noto Sans Hebrew', sans-serif;
+  direction: rtl;
+}
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🚀 Déploiement
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Déployé automatiquement sur [Vercel](https://vercel.com)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🛠️ En cours…
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Intégration audio 🎧 pour l’écoute des noms hébraïques
+- Vue temporelle : filtre par date courante
+- Export PDF / SVG des sceaux
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🧙‍♂️ Auteur
 
-### Making a Progressive Web App
+Prototype conçu par **MAGMA-XX-32** avec l’assistance de l’archétype G3P3T0,  
+au croisement de la Kabbale, de l’Ifá, et des données.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
