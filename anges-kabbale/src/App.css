@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.font-hebrew {
+  font-family: 'Noto Sans Hebrew', sans-serif;
+  direction: rtl;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
