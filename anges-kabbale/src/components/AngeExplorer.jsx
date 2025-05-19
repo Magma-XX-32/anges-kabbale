@@ -9,7 +9,7 @@ export default function AngeExplorer() {
   const [expanded, setExpanded] = useState(null);
 
   useEffect(() => {
-    fetch("/anges_01_72_complet_kabaleb_dates_non_inclusives.json")
+    fetch("/anges_01_72_complet_enrichi_versets_complets.json")
       .then((res) => res.json())
       .then((data) => {
         setAnges(data);
