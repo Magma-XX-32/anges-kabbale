@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 
 export default function AngeExplorer() {
   const [anges, setAnges] = useState([]);
+  const [versets, setVersets] = useState({});
   const [search, setSearch] = useState("");
   const [sphère, setSphère] = useState("");
   const [vertu, setVertu] = useState("");
@@ -10,14 +11,18 @@ export default function AngeExplorer() {
   const [modalContent, setModalContent] = useState(null);
 
   useEffect(() => {
-    fetch("/anges_01_72_complet_enrichi_versets_complets.json")
-      .then((res) => res.json())
-      .then((data) => {
-        setAnges(data);
-        const allVertus = new Set();
-        data.forEach((ange) => ange.vertus.forEach((v) => allVertus.add(v)));
-        setVertus(Array.from(allVertus));
-      });
+    Promise.all([
+      fetch("/anges_separes.json").then((res) => res.json()),
+      fetch("/versets_separes.json").then((res) => res.json())
+    ]).then(([angesData, versetsData]) => {
+      setAnges(angesData);
+      const allVertus = new Set();
+      angesData.forEach((ange) => ange.vertus.forEach((v) => allVertus.add(v)));
+      setVertus(Array.from(allVertus));
+      const versetMap = {};
+      versetsData.forEach((v) => versetMap[v.id] = v);
+      setVersets(versetMap);
+    });
   }, []);
 
   const filtered = anges.filter((ange) => {
@@ -67,57 +72,60 @@ export default function AngeExplorer() {
       </div>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {filtered.map((ange, index) => (
-          <div
-            key={ange.numéro}
-            className="bg-white p-4 rounded-xl shadow-md border hover:shadow-xl transition"
-          >
-            <h2
-              className="text-xl font-semibold text-indigo-700 cursor-pointer"
-              onClick={() => toggleExpanded(index)}
+        {filtered.map((ange, index) => {
+          const verset = versets[ange.verset_id] || {};
+          return (
+            <div
+              key={ange.numéro}
+              className="bg-white p-4 rounded-xl shadow-md border hover:shadow-xl transition"
             >
-              {ange.numéro} {ange.nom}
-            </h2>
-            <p className="italic text-sm text-gray-600">{ange.signification}</p>
-            <ul className="mt-3 text-sm text-gray-700 space-y-1">
-              <li><strong>Hiérarchie :</strong> {ange.hiérarchie}</li>
-              <li><strong>Sphère :</strong> {ange.sphère}</li>
-              <li><strong>Élément :</strong> {ange.élément}</li>
-              <li><strong>Dates :</strong> {ange.dates_influence}</li>
-              <li>
-                <strong>Verset :</strong>{" "}
-                <span
-                  onClick={() => setModalContent({ ref: ange.verset, texte: ange.texte_verset_complet })}
-                  className="text-blue-600 underline cursor-pointer"
-                  title={ange.texte_verset_complet}
-                >
-                  {ange.verset}
-                </span>
-              </li>
-            </ul>
+              <h2
+                className="text-xl font-semibold text-indigo-700 cursor-pointer"
+                onClick={() => toggleExpanded(index)}
+              >
+                {ange.numéro} {ange.nom}
+              </h2>
+              <p className="italic text-sm text-gray-600">{ange.signification}</p>
+              <ul className="mt-3 text-sm text-gray-700 space-y-1">
+                <li><strong>Hiérarchie :</strong> {ange.hiérarchie}</li>
+                <li><strong>Sphère :</strong> {ange.sphère}</li>
+                <li><strong>Élément :</strong> {ange.élément}</li>
+                <li><strong>Dates :</strong> {ange.dates_influence}</li>
+                <li>
+                  <strong>Verset :</strong>{" "}
+                  <span
+                    onClick={() => setModalContent({ ref: verset.référence, texte: verset.texte })}
+                    className="text-blue-600 underline cursor-pointer"
+                    title={verset.texte}
+                  >
+                    {verset.référence}
+                  </span>
+                </li>
+              </ul>
 
-            {expanded === index && (
-              <div className="transition-all duration-300 ease-in-out mt-2 text-sm text-gray-700 space-y-1">
-                <ul>
-                  <li><strong>Nom hébreu :</strong> <span className="block text-right font-hebrew text-2xl">{ange.nom_hebreu_consonnes}</span></li>
-                  <li><strong>Hébreu vocalisé :</strong> <span className="block text-right font-hebrew text-lg">{ange.nom_hebreu_avec_voyelles}</span></li>
-                  {ange.sceau && (
-                    <li><strong>Sceau :</strong> <img src={ange.sceau} alt={`Sceau de ${ange.nom}`} className="w-16 mt-1" /></li>
-                  )}
-                  <li><strong>Permutation Aboulafia :</strong> {ange.permutation_aboulafia}</li>
-                  <li><strong>Itone Ifá :</strong> {ange.itone_ifa}</li>
-                </ul>
-              </div>
-            )}
+              {expanded === index && (
+                <div className="transition-all duration-300 ease-in-out mt-2 text-sm text-gray-700 space-y-1">
+                  <ul>
+                    <li><strong>Nom hébreu :</strong> <span className="block text-right font-hebrew text-2xl">{ange.nom_hebreu_consonnes}</span></li>
+                    <li><strong>Hébreu vocalisé :</strong> <span className="block text-right font-hebrew text-lg">{ange.nom_hebreu_avec_voyelles}</span></li>
+                    {ange.sceau && (
+                      <li><strong>Sceau :</strong> <img src={ange.sceau} alt={`Sceau de ${ange.nom}`} className="w-16 mt-1" /></li>
+                    )}
+                    <li><strong>Permutation Aboulafia :</strong> {ange.permutation_aboulafia}</li>
+                    <li><strong>Itone Ifá :</strong> {ange.itone_ifa}</li>
+                  </ul>
+                </div>
+              )}
 
-            <button
-              onClick={() => toggleExpanded(index)}
-              className="mt-3 text-sm text-indigo-600 hover:underline flex items-center gap-1"
-            >
-              {expanded === index ? "🔼 Réduire" : "🔽 Voir plus"}
-            </button>
-          </div>
-        ))}
+              <button
+                onClick={() => toggleExpanded(index)}
+                className="mt-3 text-sm text-indigo-600 hover:underline flex items-center gap-1"
+              >
+                {expanded === index ? "🔼 Réduire" : "🔽 Voir plus"}
+              </button>
+            </div>
+          );
+        })}
       </div>
 
       {/* Modale pour afficher le texte complet du verset */}
